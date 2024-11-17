@@ -34,7 +34,7 @@ const NenpiComponent = () => {
         <NavBar navItems={items} />
         <div className={`${styles.main}`}>
           <div>
-            <h1 className={`${styles.title}`}>Nenpi</h1>
+            <h1 className={`${styles.title}`}>Nenpi 燃費</h1>
           </div>
           <div className={styles.inputContainer}>
             <div
@@ -58,8 +58,6 @@ const NenpiComponent = () => {
           {/* <button className={styles.buttonVisible}>
             <a href="https://www.nenpi.com">Go to Nenpi</a>
           </button> */}
-
-          
         </div>
         <Dashboard />
         <CompDashboard />

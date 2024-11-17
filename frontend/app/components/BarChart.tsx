@@ -1,7 +1,7 @@
 import React from "react";
 import Bar from "../components/BarChart";
 import BarConfig from "./Bar";
-import styles from "../styles/card.module.css";
+import styles from "../styles/Card.module.css";
 
 const BarChart = () => {
   const chartData = {

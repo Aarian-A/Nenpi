@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../components/Card";
-import styles from "../styles/dashboard.module.css";
+import styles from "../styles/Dashboard.module.css";
 import CarCard from "../components/CarCard";
 import ScoreCard from "../components/ScoreCard";
 import RadarGraph from "../components/RadarGraph";

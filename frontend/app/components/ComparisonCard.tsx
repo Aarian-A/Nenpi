@@ -1,10 +1,7 @@
 import React from "react";
-import cardStyles from "../styles/card.module.css";
+import cardStyles from "../styles/Card.module.css";
 
-interface CompCardProps {
-
-}
-
+interface CompCardProps {}
 
 // const ComparisonCard: React.FC<CompCardProps> = ({}){
 
@@ -21,8 +18,5 @@ interface CompCardProps {
 //     </div>
 //   );
 // };
-
-
-
 
 // export default ComparisonCard;
