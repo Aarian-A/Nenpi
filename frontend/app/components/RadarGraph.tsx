@@ -18,7 +18,7 @@ function Card() {
       {
         label: "My First Dataset",
         data: [50, 80, 90, 81, 80, 80, 80],
-        backgroundColor: "rgba(255, 99, 132, 0.2)",
+        backgroundColor: "rgba(235, 10, 30, 0.5)",
         borderColor: "rgba(255, 99, 132, 1)",
         borderWidth: 1,
       },

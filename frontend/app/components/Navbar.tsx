@@ -9,10 +9,10 @@ import "../styles/navbar.css";
 // }
 
 interface NavBarProps {
-    navItems: string[];
+  navItems: string[];
 }
 
-function Navbar({navItems}: NavBarProps) {
+function Navbar({ navItems }: NavBarProps) {
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
   return (

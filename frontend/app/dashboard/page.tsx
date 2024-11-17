@@ -6,6 +6,7 @@ import ScoreCard from "../components/ScoreCard";
 import RadarGraph from "../components/RadarGraph";
 import MileCard from "../components/MileCard";
 import BarChart from "../components/BarChart";
+import LineChart from "../components/LineChart";
 
 function Dashboard() {
   return (
@@ -16,6 +17,7 @@ function Dashboard() {
         <RadarGraph />
         <MileCard variant={"main"} title={"MPG"} statistic={123} />
         <BarChart />
+        <LineChart />
       </div>
     </div>
   );

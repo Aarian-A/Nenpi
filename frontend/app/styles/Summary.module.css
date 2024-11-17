@@ -1,0 +1,40 @@
+.main {
+  height: 100%;
+  width: 100%;
+
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  padding: 1rem;
+}
+
+.left {
+  border-right: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+  width: 50%;
+  height: 100%;
+  padding: 0rem 2rem;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+  width: 50%;
+  height: 100%;
+  padding: 0rem 2rem;
+}
+
+.img {
+  border-radius: 2rem;
+  max-width: 50%;
+  max-height: 50%;
+}
