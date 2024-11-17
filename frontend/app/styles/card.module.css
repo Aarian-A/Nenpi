@@ -6,6 +6,25 @@
   transition: transform 0.3s;
   border-radius: 1rem;
   border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  background: linear-gradient(to top, green, lightgreen);
+  width: 50%;
+  height: 50%;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stat {
+  font-size: 2rem;
+  color: white;
 }
 
 .card:hover {
@@ -13,7 +32,7 @@
 }
 
 /* Custom styles */
-.specialCard {
+.special {
   background: linear-gradient(to right, #ff7e5f, #feb47b);
   color: white;
 }

@@ -11,10 +11,10 @@ function Dashboard() {
       <div className={styles.gridContainer}>
         <CarCard />
         <ScoreCard />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
+        <Card variant={"main"} title={"City MPG"} statistic={35} />
+        <Card variant={"main"} title={"HWY MPG"} statistic={18} />
+        <Card variant={"main"} title={"MPG"} statistic={5} />
+        <Card variant={"main"} title={"MPG"} statistic={1} />
       </div>
     </div>
   );
