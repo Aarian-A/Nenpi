@@ -9,23 +9,33 @@ import "../styles/navbar.css";
 // }
 
 interface NavBarProps {
-    navItems: string[];
+  navItems: string[];
 }
 
-function Navbar({navItems}: NavBarProps) {
+function Navbar({ navItems }: NavBarProps) {
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
   return (
     <nav className="fixedNavBar navbar-white horizontal-nav navbar navbar-light bg-white shadow">
-        <div onClick={() => window.location.href = "#"} style={{ cursor: "pointer" }}>
-            <a className="nav-link" href="#" style={{ display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
-            <p style={{ margin: 0 }}>Nenpi</p>
-            <h1 style={{ margin: 0 }}>燃費</h1>
-            </a>
-        </div>
+      <div
+        onClick={() => (window.location.href = "#")}
+        style={{ cursor: "pointer" }}
+      >
+        <a
+          className="nav-link"
+          href="#"
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            margin: 0,
+          }}
+        >
+          <p style={{ margin: 0 }}>Nenpi</p>
+          <h1 style={{ margin: 0 }}>燃費</h1>
+        </a>
+      </div>
       <div className="container-fluid d-flex justify-content-between align-items-center">
-        
-
         <div className="horizontal-nav">
           {navItems.map((item, index) => (
             <div

@@ -1,0 +1,10 @@
+.button {
+  font-size: 1rem;
+  padding: 0.5rem;
+  border-radius: 2rem;
+  background-color: green;
+  border: none;
+  color: white;
+  background-color: #eb0a1e;
+  align-self: flex-end;
+}

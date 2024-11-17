@@ -1,77 +1,76 @@
 .container-fluid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .brand {
-    font-weight: bold;
-    color: black;
-    text-decoration: none;
-    border-radius: 5px;
-    position: left;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  position: left;
 }
 
 .horizontal-nav {
-    display: flex;
-    gap: 20px; /* Spacing between items */
+  display: flex;
+  gap: 20px; /* Spacing between items */
 }
 
 .horizontal-nav .nav-link {
-    text-decoration: none;
-    color: black;
-    padding: 5px 10px;
-    border-radius: 4px;
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 4px;
 }
 
 .horizontal-nav .nav-item.active .nav-link {
-    background-color: #007bff;
-    color: white;
+  background-color: #007bff;
+  color: white;
 }
 
 .corner-nav {
-    position: absolute;
-    top: 10px; /* Adjust position based on your layout */
-    right: 10px;
+  position: absolute;
+  top: 10px; /* Adjust position based on your layout */
+  right: 10px;
 }
 
 .vertical-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    ;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .vertical-list .nav-item {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .vertical-list .nav-link {
-    text-decoration: none;
-    color: black;
-    padding: 5px 10px;
-    border-radius: 4px;
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 4px;
 }
 
 .vertical-list .nav-item.active .nav-link {
-    background-color: #f8f8f8;
-    color: white;
+  background-color: #f8f8f8;
+  color: white;
 }
 
 title {
-    font-size: 20px;
-    font-weight: bold;
-    color: black;
-    margin: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin: none;
 }
 
 .fixedNavBar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000; /* Ensure it stays on top of other elements */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays on top of other elements */
 }
 
 .navbar-white {
-    background-color: white;
+  background-color: white;
 }
