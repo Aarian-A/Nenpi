@@ -5,7 +5,7 @@ import styles from "../styles/card.module.css";
 interface CardProps {
   variant: "special" | "main"; // Can be either 'special' or 'main'
   title: string;
-  statistic: string;
+  statistic: number;
 }
 
 const Card: React.FC<CardProps> = ({ variant, title, statistic }) => {

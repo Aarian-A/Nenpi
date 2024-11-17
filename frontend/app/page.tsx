@@ -6,6 +6,8 @@ import { GoPaperclip } from "react-icons/go";
 import { IoIosSend } from "react-icons/io";
 import Dashboard from "./dashboard/page";
 import NavBar from "./components/Navbar";
+import CompDashboard from "./dashboard/Comparison";
+import WaveBackground from "./components/WaveBackground";
 
 const NenpiComponent = () => {
   const [showSearchBar, setShowSearchBar] = useState(false);
@@ -16,7 +18,7 @@ const NenpiComponent = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowSearchBar(true);
-    }, 5); // Delay matches the fade-out duration
+    }, 500); // Delay matches the fade-out duration
     return () => clearTimeout(timer);
   }, []);
 
@@ -31,25 +33,37 @@ const NenpiComponent = () => {
       <div>
         <NavBar navItems={items} />
         <div className={`${styles.main}`}>
-          <h1 className={`${styles.title} ${styles.fadeOut}`}>Nenpi</h1>
-          <div
-            className={`${styles.searchBar} ${
-              showSearchBar ? styles.searchBarVisible : ""
-            }`}
-          >
-            <GoPaperclip size={"1.75rem"} />
-            <input
-              type="text"
-              className={styles.input}
-              placeholder="Message Nenpi"
-              onChange={handleChange}
-            />
-            <div className={styles.icon}>
-              <IoIosSend size={"1.75rem"} />
+          <div>
+            <h1 className={`${styles.title}`}>Nenpi</h1>
+          </div>
+          <div className={styles.inputContainer}>
+            <div
+              className={`${styles.searchBar} ${
+                showSearchBar ? styles.searchBarVisible : ""
+              }`}
+            >
+              <GoPaperclip size={"1.75rem"} />
+              <input
+                type="text"
+                className={styles.input}
+                placeholder="Message Nenpi"
+                onChange={handleChange}
+              />
+              <div className={styles.icon}>
+                <IoIosSend size={"1.75rem"} />
+              </div>
             </div>
           </div>
+
+          {/* <button className={styles.buttonVisible}>
+            <a href="https://www.nenpi.com">Go to Nenpi</a>
+          </button> */}
+
+          
         </div>
         <Dashboard />
+        <CompDashboard />
+        <WaveBackground />
       </div>
     </>
   );
