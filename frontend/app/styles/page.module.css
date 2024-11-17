@@ -6,27 +6,50 @@
   overflow-y: hidden;
 }
 
-.title,
-.titleJapan {
-  display: block;
+.title, .titleJapan {
+  display: flex;
+  flex-direction: column;
   opacity: 1;
-  transition: opacity 1s ease-in-out; /* Smooth fade effect */
+  transition: opacity 20s ease-in-out; /* Smooth fade effect */
+  font-size: 8rem;
+  font: bold;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
 }
 
 .searchBar {
-  display: none; /* Initially hidden */
+  display: flex;
+  align-items: center;
   padding: 1rem 2rem;
   border-radius: 2rem;
   width: 60%;
   border: 1px solid black;
-  opacity: 0; /* Start hidden */
+  opacity: 0;
   transition: opacity 1s ease-in-out;
 }
 
 .searchBarVisible {
-  display: flex; /* Make it visible */
+  display: flex;
   align-items: center;
   animation: showSearchBarAnimation 1s ease-in-out forwards;
+}
+
+.buttonVisible {
+  opacity: 0;
+  animation-delay: 1s; /* Delay the animation */
+  align-items: center;
+  animation: showButtonAnimation 3s ease-in-out forwards;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .input {
@@ -37,10 +60,11 @@
   font-size: 1.25rem;
   margin-left: 0.5rem;
   margin-right: auto;
+  background: transparent;
 }
 
 .fadeOut {
-  animation: fadeOutAnimation 1s ease-in-out forwards;
+  animation: fadeOutAnimation 10s ease-in-out forwards;
 }
 
 @keyframes fadeOutAnimation {
@@ -65,3 +89,12 @@
   }
 }
 
+@keyframes showButtonAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  
+}
