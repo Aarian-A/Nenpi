@@ -13,7 +13,7 @@ const NenpiComponent = () => {
   const [showSearchBar, setShowSearchBar] = useState(false);
   const [search, setSearch] = useState("");
 
-  let items = ["Home", "Product", "Service"];
+  let items = ["Home", "Dashboard", "Comparison"];
 
   useEffect(() => {
     const timer = setTimeout(() => {
