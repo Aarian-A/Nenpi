@@ -1,10 +1,23 @@
-import React from 'react'
+import React from "react";
+import styles from "../styles/card.module.css";
 
-function Card() {
-  return (
-    <div>Card</div>
-  )
+// Define the types for the props
+interface CardProps {
+  variant: "special" | "main"; // Can be either 'special' or 'main'
+  title: string;
+  statistic: string;
 }
 
+const Card: React.FC<CardProps> = ({ variant, title, statistic }) => {
+  // Define styles based on the variant prop
+  const cardStyle = variant === "special" ? styles.special : styles.main;
 
-export default Card
+  return (
+    <div className={cardStyle}>
+      <h2>{title}</h2>
+      <p>{statistic}</p>
+    </div>
+  );
+};
+
+export default Card;

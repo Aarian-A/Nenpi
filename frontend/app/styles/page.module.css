@@ -1,11 +1,67 @@
-.main{
+.main {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow-y: hidden;
 }
 
-.title, .titleJapan {
+.title,
+.titleJapan {
   display: block;
+  opacity: 1;
+  transition: opacity 1s ease-in-out; /* Smooth fade effect */
+}
+
+.searchBar {
+  display: none; /* Initially hidden */
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  width: 60%;
+  border: 1px solid black;
+  opacity: 0; /* Start hidden */
+  transition: opacity 1s ease-in-out;
+}
+
+.searchBarVisible {
+  display: flex; /* Make it visible */
+  align-items: center;
+  animation: showSearchBarAnimation 1s ease-in-out forwards;
+}
+
+.input {
+  width: 90%;
+  border: none;
+  user-select: none;
+  -webkit-user-select: none;
+  font-size: 1.25rem;
+  margin-left: 0.5rem;
+  margin-right: auto;
+}
+
+.fadeOut {
+  animation: fadeOutAnimation 1s ease-in-out forwards;
+}
+
+@keyframes fadeOutAnimation {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.searchBarShow {
+  animation: showSearchBarAnimation 1s ease-in-out 1s forwards; /* 1s delay for title fade-out */
+}
+
+@keyframes showSearchBarAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
