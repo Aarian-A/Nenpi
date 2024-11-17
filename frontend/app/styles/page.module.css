@@ -64,8 +64,3 @@
     opacity: 1;
   }
 }
-
-.searchBarVisible {
-  display: flex; /* Make it visible */
-  animation: showSearchBarAnimation 1s ease-in-out forwards;
-}
