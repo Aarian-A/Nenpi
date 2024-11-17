@@ -1,0 +1,15 @@
+.main {
+  min-width: 10rem;
+  grid-column-start: 1;
+  grid-column-end: -1;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+}
+
+.imgContainer {
+  width: 50%;
+}
