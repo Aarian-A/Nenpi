@@ -2,7 +2,7 @@ import React from "react";
 import Card from "../components/Card";
 import styles from "../styles/dashboard.module.css";
 import CarCard from "../components/CarCard";
-import cardStyles from "../styles/Carcard.module.css";
+import cardStyles from "../styles/card.module.css";
 import ScoreCard from "../components/ScoreCard";
 
 function Dashboard() {
