@@ -19,7 +19,7 @@ function Navbar({ navItems }: NavBarProps) {
     <nav className="fixedNavBar navbar-white horizontal-nav navbar navbar-light bg-white shadow">
       <div className="container-fluid d-flex justify-content-between align-items-center">
         <div onClick={() => window.location.href = "#"} style={{ cursor: "pointer" }}>
-              <a className="nav-link" href="#" style={{ display: "flex", flexDirection: "column", alignItems: "center", margin: 0, backgroundColor: "red" }}
+              <a className="nav-link" href="#" style={{ display: "flex", flexDirection: "column", alignItems: "center", margin: 0}}
                 onMouseEnter={(e) => e.currentTarget.style.backgroundColor = "#C34A4C"}
                 onMouseLeave={(e) => e.currentTarget.style.backgroundColor = "white"}
               >
