@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styles from "../styles/CardComparion.module.css";
 import Image from "next/image";
 
@@ -23,10 +23,18 @@ interface CompCardProps {}
 // export default ComparisonCard;
 
 interface ComparisonCardProps {
+  state: string
   carNumber: string; // Define the expected prop type
+  stateChanger: React.Dispatch<React.SetStateAction<string>>; 
 }
 
-const ComparisonCard: React.FC<ComparisonCardProps> = ({ carNumber }) => {
+const ComparisonCard: React.FC<ComparisonCardProps> = ({ carNumber, state, stateChanger }) => {
+  const handleChange = (event: {
+    target: { value: React.SetStateAction<string> };
+  }) => {
+    stateChanger(event.target.value);
+  };
+
   return (
     <div className={styles.main}>
       <div className={styles.red}></div>
@@ -42,22 +50,13 @@ const ComparisonCard: React.FC<ComparisonCardProps> = ({ carNumber }) => {
         />
 
         <h1 className={styles.title}>Add {carNumber} car</h1>
-        <div className={styles.choiceWrapper}>
-          <select className={styles.select}>
-            <option value="fruit">Choose a Make</option>
-
-            <option value="vegetable">Vegetable</option>
-          </select>
-          <select className={styles.select}>
-            <option value="fruit">Choose a model</option>
-            <option value="vegetable">Vegetable</option>
-          </select>
-          <select className={styles.select}>
-            <option value="fruit">Choose a year</option>
-
-            <option value="vegetable">Vegetable</option>
-          </select>
-        </div>
+        <input
+                type="text"
+                className={styles.input}
+                placeholder="Type your car"
+                onChange={handleChange}
+                value={state}
+              />
       </div>
     </div>
   );

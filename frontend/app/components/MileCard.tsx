@@ -2,49 +2,59 @@ import React from "react";
 import styles from "../styles/Card.module.css";
 
 // Define the types for the props
-interface CardProps {
+interface MileCardProps {
   variant: "special" | "main"; // Can be either 'special' or 'main'
   title: string;
-  statistic: number;
+  cityFuelEconomy: number; // City fuel economy
+  hwyFuelEconomy: number; // Highway fuel economy
+  combinedFuelEconomy: number; // Combined fuel economy
 }
 
-const Card: React.FC<CardProps> = ({ variant, title, statistic }) => {
-  // Define styles based on the variant prop
+const MileCard: React.FC<MileCardProps> = ({
+  variant,
+  title,
+  cityFuelEconomy,
+  hwyFuelEconomy,
+  combinedFuelEconomy,
+}) => {
   const cardStyle = variant === "special" ? styles.special : styles.main;
-
-  // Determine the circle color based on the statistic
-  const getCircleColor = () => {
-    if (statistic < 10) return "linear-gradient(to top, #B32113, #8F1600)";
-    if (statistic < 20) return "linear-gradient(to bottom, #ffdd3c, #ffea61)";
-    if (statistic < 30) return "linear-gradient(to top, green, lightgreen)";
-  };
-
-  const circleStyle = {
-    background: getCircleColor(),
-  };
 
   return (
     <div className={cardStyle}>
       <h2>{title}</h2>
 
-      <p className={styles.mileHeading}>City Fuel Economy</p>
-      <progress value={0.2} className={styles.progress} />
+      <p className={styles.mileHeading}>
+        City Fuel Economy: <span className={styles.fuelValue}>{cityFuelEconomy} MPG</span>
+      </p>
+      <progress
+        value={cityFuelEconomy / 50}
+        max={1}
+        className={styles.progress}
+      />
       <div className={styles.ranges}>
         <p className={styles.rangeText}>Low Mile</p>
         <p className={styles.rangeText}>Balanced Mile</p>
         <p className={styles.rangeText}>Great Mile</p>
       </div>
 
-      <p className={styles.mileHeading}>HWY Fuel Economy</p>
-      <progress value={0.5} className={styles.progress} />
+      <p className={styles.mileHeading}>
+        HWY Fuel Economy: <span className={styles.fuelValue}>{hwyFuelEconomy} MPG</span>
+      </p>
+      <progress value={hwyFuelEconomy / 50} max={1} className={styles.progress} />
       <div className={styles.ranges}>
         <p className={styles.rangeText}>Low Mile</p>
         <p className={styles.rangeText}>Balanced Mile</p>
         <p className={styles.rangeText}>Great Mile</p>
       </div>
 
-      <p className={styles.mileHeading}>HWY Fuel Economy</p>
-      <progress value={0.7} className={styles.progress} />
+      <p className={styles.mileHeading}>
+        Combined Fuel Economy: <span className={styles.fuelValue}>{combinedFuelEconomy} MPG</span>
+      </p>
+      <progress
+        value={combinedFuelEconomy / 50}
+        max={1}
+        className={styles.progress}
+      />
       <div className={styles.ranges}>
         <p className={styles.rangeText}>Low Mile</p>
         <p className={styles.rangeText}>Balanced Mile</p>
@@ -54,4 +64,4 @@ const Card: React.FC<CardProps> = ({ variant, title, statistic }) => {
   );
 };
 
-export default Card;
+export default MileCard;

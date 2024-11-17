@@ -91,7 +91,11 @@ const searchCarData = (year, make, model) => {
         model: row['Carline'],
         cityFuelEconomy: row['City FE (Guide) - Conventional Fuel'],
         highwayFuelEconomy: row['Hwy FE (Guide) - Conventional Fuel'],
-        combinedFuelEconomy: row['Comb FE (Guide) - Conventional Fuel']
+        combinedFuelEconomy: row['Comb FE (Guide) - Conventional Fuel'],
+        AnnualFuelCost: row['Annual Fuel1 Cost - Conventional Fuel'],
+        cityCO2: row['City CO2 Rounded Adjusted'],
+        hwyCO2: row['Hwy CO2 Rounded Adjusted'],
+        combCO2: row['Comb CO2 Rounded Adjusted (as shown on FE Label)'],
     }));
 
     return fuelEconomyData;
@@ -156,20 +160,18 @@ app.post('/api/chat', async (req, res) => {
         }
 
         // Fetch car image using year, make, and model
-        const carImage = await getCarImage(make, model, year);
-
-        if (!carImage) {
+        
+ 
             return res.status(404).send({ 
                 year, 
                 make, 
                 model, 
                 results: searchResults, 
-                message: 'No image found for the specified car.' 
             });
-        }
+        
 
         // Send the search results and car image back to the client
-        res.send({ year, make, model, results: searchResults, image: carImage });
+        res.send({ year, make, model, results: searchResults });
     } catch (error) {
         console.error('Error processing the chat request:', error.message);
         res.status(500).send({ error: 'Failed to process your request', details: error.message });
@@ -177,30 +179,7 @@ app.post('/api/chat', async (req, res) => {
 });
 
 // CarsXE API key
-const carsxe_api_key = '97i1j1qxm_f5r21dnhf_kx7jqivrw';
 
-// Function to fetch car image using CarsXE API
-const getCarImage = async (make, model, year) => {
-    try {
-        const response = await axios.get('https://api.carsxe.com/images', {
-            params: {
-                key: carsxe_api_key,
-                make: make,
-                model: model,
-                year: year,
-            },
-        });
-
-        if (response.data && response.data.images && response.data.images.length > 0) {
-            return response.data.images[0];
-        } else {
-            return null;
-        }
-    } catch (error) {
-        console.error('Error fetching car image from CarsXE API:', error.message);
-        return null;
-    }
-};
 
 // Start the server
 app.listen(PORT, () => {
