@@ -1,9 +1,45 @@
-// import React from 'react'
+"use client";
 
-// function Navbar() {
-//   return (
-//     <div>Navbar</div>
-//   )
-// }
+import { useState } from "react";
+import "../styles/navbar.css";
 
-// export default Navbar
+interface NavBarProps {
+  brandName: string;
+  navItems: string[];
+}
+
+function Navbar({ brandName, navItems }: NavBarProps) {
+  const [selectedIndex, setSelectedIndex] = useState(-1);
+
+  return (
+    <nav className="horizontal-nav navbar navbar-light bg-white shadow">
+        <div onClick={() => window.location.href = "#"} style={{ cursor: "pointer" }}>
+            <a className="nav-link" href="#" style={{ display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
+            <p style={{ margin: 0 }}>Nenpi</p>
+            <h1 style={{ margin: 0 }}>燃費</h1>
+            </a>
+        </div>
+      <div className="container-fluid d-flex justify-content-between align-items-center">
+        
+
+        <div className="horizontal-nav">
+          {navItems.map((item, index) => (
+            <div
+              key={item}
+              className={`nav-item ${selectedIndex === index ? "active" : ""}`}
+              onClick={() => setSelectedIndex(index)}
+              onMouseEnter={() => setSelectedIndex(index)}
+              onMouseLeave={() => setSelectedIndex(-1)}
+            >
+              <a className="nav-link" href="#">
+                {item}
+              </a>
+            </div>
+          ))}
+        </div>
+      </div>
+    </nav>
+  );
+}
+
+export default Navbar;
