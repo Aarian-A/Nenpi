@@ -1,0 +1,27 @@
+.wave-container {
+  position: fixed; /* Fixed positioning to stay relative to the viewport */
+  bottom: 0; /* Anchors the wave to the bottom of the viewport */
+  left: 0;
+  width: 100%;
+  height: auto;
+  z-index: -1; /* Ensures it's behind other content */
+  pointer-events: none; /* Prevents it from interfering with clicks */
+}
+
+.wave {
+  width: 100%;
+  height: auto;
+  animation: waveScrollAnimation 6s ease-in-out infinite; /* Adjusted duration for speed */
+}
+
+@keyframes waveScrollAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(20px); /* Midpoint of the wave */
+  }
+  100% {
+    transform: translateY(0); /* Loops back seamlessly */
+  }
+}
