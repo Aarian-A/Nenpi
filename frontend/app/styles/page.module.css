@@ -1,6 +1,6 @@
 .main {
   height: 100vh;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   overflow-y: hidden;
@@ -12,7 +12,8 @@
   opacity: 1;
   transition: opacity 20s ease-in-out; /* Smooth fade effect */
   font-size: 8rem;
-  font: bold;
+  font: bold; 
+  justify-content: center;
 }
 
 .inputContainer {
@@ -44,12 +45,6 @@
   animation-delay: 1s; /* Delay the animation */
   align-items: center;
   animation: showButtonAnimation 3s ease-in-out forwards;
-}
-
-.inputContainer {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
 }
 
 .input {

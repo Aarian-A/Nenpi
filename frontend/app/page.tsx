@@ -33,9 +33,7 @@ const NenpiComponent = () => {
       <div>
         <NavBar navItems={items} />
         <div className={`${styles.main}`}>
-          <div>
-            <h1 className={`${styles.title}`}>Nenpi</h1>
-          </div>
+          <h1 className={`${styles.title}`}>Nenpi</h1>
           <div className={styles.inputContainer}>
             <div
               className={`${styles.searchBar} ${
