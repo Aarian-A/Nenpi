@@ -24,8 +24,6 @@ function Navbar({navItems}: NavBarProps) {
             </a>
         </div>
       <div className="container-fluid d-flex justify-content-between align-items-center">
-        
-
         <div className="horizontal-nav">
           {navItems.map((item, index) => (
             <div
