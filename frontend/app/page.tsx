@@ -28,9 +28,8 @@ const NenpiComponent = () => {
 
   return (
     <div>
-      <NavBar 
-          brandName="My Brand"
-          navItems={items}/>
+      <NavBar
+        navItems={items}/>
       <div className={`${styles.main}`}>
         <h1 className={`${styles.title} ${styles.fadeOut}`}>Nenpi</h1>
         <div

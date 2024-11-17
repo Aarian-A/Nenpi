@@ -3,16 +3,20 @@
 import { useState } from "react";
 import "../styles/navbar.css";
 
+// interface NavBarProps {
+//   navItems: string[];
+//   className?: string;
+// }
+
 interface NavBarProps {
-  brandName: string;
-  navItems: string[];
+    navItems: string[];
 }
 
-function Navbar({ brandName, navItems }: NavBarProps) {
+function Navbar({navItems}: NavBarProps) {
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
   return (
-    <nav className="horizontal-nav navbar navbar-light bg-white shadow">
+    <nav className="fixedNavBar horizontal-nav navbar navbar-light bg-white shadow">
         <div onClick={() => window.location.href = "#"} style={{ cursor: "pointer" }}>
             <a className="nav-link" href="#" style={{ display: "flex", flexDirection: "column", alignItems: "center", margin: 0 }}>
             <p style={{ margin: 0 }}>Nenpi</p>
