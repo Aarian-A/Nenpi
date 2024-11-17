@@ -16,7 +16,7 @@ const NenpiComponent = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowSearchBar(true);
-    }, 5); // Delay matches the fade-out duration
+    }, 1000); // Delay matches the fade-out duration
     return () => clearTimeout(timer);
   }, []);
 
