@@ -99,8 +99,9 @@ const searchCarData = (year, make, model) => {
 
 // Chat endpoint
 app.post('/api/chat', async (req, res) => {
+    console.log("Received userMessage:", req.body);
     const { userMessage } = req.body;
-
+    
     if (!userMessage) {
         return res.status(400).send({ error: 'userMessage is required' });
     }
