@@ -3,24 +3,20 @@
   /* display: flex; */
   justify-content: center;
   align-items: center;
-  overflow-y: hidden;
+  flex-direction: column;
 }
 
-.title, .titleJapan {
-  display: flex;
-  flex-direction: column;
+.title {
   opacity: 1;
   transition: opacity 20s ease-in-out; /* Smooth fade effect */
   font-size: 8rem;
-  font: bold; 
-  justify-content: center;
 }
 
 .inputContainer {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
   width: 100%;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
 }
 
 .searchBar {
@@ -28,7 +24,7 @@
   align-items: center;
   padding: 1rem 2rem;
   border-radius: 2rem;
-  width: 60%;
+  width: 70%;
   border: 1px solid black;
   opacity: 0;
   transition: opacity 1s ease-in-out;
@@ -91,5 +87,4 @@
   100% {
     opacity: 1;
   }
-  
 }

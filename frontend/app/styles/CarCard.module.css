@@ -5,7 +5,6 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  padding: 1rem;
   border-radius: 1rem;
   border: 1px solid black;
 }

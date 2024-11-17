@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Card from "../components/Card";
-import styles from "../styles/dashboard.module.css";
+import styles from "../styles/Comparison.module.css";
 import CarCard from "../components/CarCard";
 import cardStyles from "../styles/card.module.css";
 import ScoreCard from "../components/ScoreCard";
@@ -15,13 +15,13 @@ function CompDashboard() {
     }
   };
 
-    const searchCar = (event: { target: { value: string; }; }) => {
-        console.log(event.target.value);
-    };
+  const searchCar = (event: { target: { value: string } }) => {
+    console.log(event.target.value);
+  };
 
   return (
     <div className={styles.main}>
-        <input type="text" placeholder="Enter Car Name" onChange={searchCar}/>
+      <input type="text" placeholder="Enter Car Name" onChange={searchCar} />
       <button onClick={addCard}>Add Comparison Card</button>
       <div className={styles.gridContainer}>
         {/* {cards.map((card, index) => (

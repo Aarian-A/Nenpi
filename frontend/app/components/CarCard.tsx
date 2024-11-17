@@ -7,6 +7,11 @@ function Card() {
     <div className={styles.main}>
       <div className={styles.content}>
         <h1>Toyota Camry</h1>
+        <ul>
+          <li>TOYOTA CAMRY</li>
+          <li>Semi-Automatic</li>
+          <li>2-Wheel Drive, Front</li>
+        </ul>
       </div>
       <div className={styles.imgContainer}>
         <Image
@@ -14,8 +19,8 @@ function Card() {
           alt="car"
           sizes="100vw"
           layout="responsive"
-          width={200}
-          height={200}
+          width={100}
+          height={100}
           style={{ borderRadius: "2rem" }}
         />
       </div>
