@@ -1,0 +1,377 @@
+Model,Displ,Cyl,Trans,Drive,Fuel,Cert Region,Stnd,Stnd Description,Underhood ID,Veh Class,Air Pollution Score,City MPG,Hwy MPG,Cmb MPG,Greenhouse Gas Score,SmartWay,Eco Score,Predicted Eco Score
+AUDI Q5 Plug-In Hybrid quattro,2.0,4.0,AMS-7,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SVGAT02.0A3P,small SUV,6,25/55,27/61,26,8,Yes,34.666666666666664,34.48547619047616
+AUDI Q5 Plug-In Hybrid quattro,2.0,4.0,AMS-7,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SVGAT02.0A3P,small SUV,6,25/55,27/61,26,8,Yes,34.666666666666664,34.48547619047616
+AUDI Q6 e-tron quattro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0B6B,standard SUV,10,102,89,95,10,Elite,95.0,95.0
+AUDI Q6 e-tron quattro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0B6B,standard SUV,10,105,93,99,10,Elite,99.0,99.0
+AUDI Q6 e-tron quattro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0B6B,standard SUV,10,102,89,95,10,Elite,95.0,95.0
+AUDI Q6 e-tron quattro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0B6B,standard SUV,10,105,93,99,10,Elite,99.0,99.0
+AUDI Q8 Sportback e-tron quattro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZE,standard SUV,10,73,75,74,10,Elite,74.0,74.0
+AUDI Q8 Sportback e-tron quattro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZE,standard SUV,10,77,80,78,10,Elite,78.0,78.0
+AUDI Q8 Sportback e-tron quattro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZE,standard SUV,10,73,75,74,10,Elite,74.0,74.0
+AUDI Q8 Sportback e-tron quattro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZE,standard SUV,10,77,80,78,10,Elite,78.0,78.0
+AUDI Q8 e-tron quattro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZE,standard SUV,10,73,75,74,10,Elite,74.0,74.0
+AUDI Q8 e-tron quattro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZE,standard SUV,10,77,80,78,10,Elite,78.0,78.0
+AUDI Q8 e-tron quattro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZE,standard SUV,10,73,75,74,10,Elite,74.0,74.0
+AUDI Q8 e-tron quattro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZE,standard SUV,10,77,80,78,10,Elite,78.0,78.0
+AUDI SQ6 e-tron,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0B6B,standard SUV,10,96,82,89,10,Elite,89.0,89.0
+AUDI SQ6 e-tron,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0B6B,standard SUV,10,96,82,89,10,Elite,89.0,89.0
+AUDI SQ8 Sportback e-tron (20 in. wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZS,standard SUV,10,68,72,70,10,Elite,70.0,70.0
+AUDI SQ8 Sportback e-tron (20 in. wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZS,standard SUV,10,68,72,70,10,Elite,70.0,70.0
+AUDI SQ8 Sportback e-tron (21/22 in. wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZS,standard SUV,10,59,60,60,10,Elite,60.0,60.38285714285715
+AUDI SQ8 Sportback e-tron (21/22 in. wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZS,standard SUV,10,59,60,60,10,Elite,60.0,60.38285714285715
+AUDI SQ8 e-tron (20 in. wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZS,standard SUV,10,68,72,70,10,Elite,70.0,70.0
+AUDI SQ8 e-tron (20 in. wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZS,standard SUV,10,68,72,70,10,Elite,70.0,70.0
+AUDI SQ8 e-tron (21/22 in. wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVGAT00.0AZS,standard SUV,10,59,60,60,10,Elite,60.0,60.38285714285715
+AUDI SQ8 e-tron (21/22 in. wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVGAT00.0AZS,standard SUV,10,59,60,60,10,Elite,60.0,60.38285714285715
+BMW 550e,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SBMXV03.0H5P,midsize car,6,23/64,26/70,24,9,Yes,36.0,35.69
+BMW 550e,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SBMXV03.0H5P,midsize car,6,23/64,26/70,24,9,Yes,36.0,35.69
+BMW 750e xDrive,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SBMXJ03.0H70,large car,6,24/60,27/72,25,9,Yes,37.5,37.36833333333333
+BMW 750e xDrive,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SBMXJ03.0H70,large car,6,24/60,27/72,25,9,Yes,37.5,37.36833333333333
+BMW X5 xDrive50e,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SBMXJ03.0H70,standard SUV,6,22/57,23/59,22,9,Yes,33.0,32.85
+BMW X5 xDrive50e,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SBMXJ03.0H70,standard SUV,6,22/57,23/59,22,9,Yes,33.0,32.85
+"BMW i4 M50 Gran Coupe (19"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,93,96,94,10,Elite,94.0,94.0
+"BMW i4 M50 Gran Coupe (19"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,93,96,94,10,Elite,94.0,94.0
+"BMW i4 M50 Gran Coupe (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,80,80,80,10,Elite,80.0,80.0
+"BMW i4 M50 Gran Coupe (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,80,80,80,10,Elite,80.0,80.0
+"BMW i4 eDrive35 Gran Coupe (18"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,117,114,116,10,Elite,116.0,116.0
+"BMW i4 eDrive35 Gran Coupe (18"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,117,114,116,10,Elite,116.0,116.0
+"BMW i4 eDrive35 Gran Coupe (19"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,108,104,106,10,Elite,106.0,106.0
+"BMW i4 eDrive35 Gran Coupe (19"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,108,104,106,10,Elite,106.0,106.0
+"BMW i4 eDrive40 Gran Coupe (18"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,113,111,112,10,Elite,112.0,112.0
+"BMW i4 eDrive40 Gran Coupe (18"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,113,111,112,10,Elite,112.0,112.0
+"BMW i4 eDrive40 Gran Coupe (19"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,106,103,104,10,Elite,104.0,104.0
+"BMW i4 eDrive40 Gran Coupe (19"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,106,103,104,10,Elite,104.0,104.0
+BMW i4 xDrive40 Gran Coupe (18'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,99,103,101,10,Elite,101.0,101.0
+BMW i4 xDrive40 Gran Coupe (18'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,99,103,101,10,Elite,101.0,101.0
+BMW i4 xDrive40 Gran Coupe (19'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,93,95,94,10,Elite,94.0,94.0
+BMW i4 xDrive40 Gran Coupe (19'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,93,95,94,10,Elite,94.0,94.0
+BMW i5 M60 xDrive Sedan (19'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,89,91,90,10,Elite,90.0,90.0
+BMW i5 M60 xDrive Sedan (19'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,89,91,90,10,Elite,90.0,90.0
+BMW i5 M60 xDrive Sedan (20'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,88,88,88,10,Elite,88.0,88.0
+BMW i5 M60 xDrive Sedan (20'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,88,88,88,10,Elite,88.0,88.0
+BMW i5 M60 xDrive Sedan (21'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,83,85,84,10,Elite,84.0,84.0
+BMW i5 M60 xDrive Sedan (21'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,83,85,84,10,Elite,84.0,84.0
+BMW i5 eDrive40 Sedan (19'' Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,104,105,105,10,Elite,105.0,105.0
+BMW i5 eDrive40 Sedan (19'' Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,104,105,105,10,Elite,105.0,105.0
+BMW i5 eDrive40 Sedan (20'' Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,99,98,99,10,Elite,99.0,99.0
+BMW i5 eDrive40 Sedan (20'' Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,99,98,99,10,Elite,99.0,99.0
+BMW i5 eDrive40 Sedan (21'' Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2S,small car,10,97,94,96,10,Elite,96.0,96.0
+BMW i5 eDrive40 Sedan (21'' Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2S,small car,10,97,94,96,10,Elite,96.0,96.0
+"BMW i5 xDrive40 Sedan (19"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,92,95,93,10,Elite,93.0,93.0
+"BMW i5 xDrive40 Sedan (19"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,92,95,93,10,Elite,93.0,93.0
+"BMW i5 xDrive40 Sedan (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,92,94,93,10,Elite,93.0,93.0
+"BMW i5 xDrive40 Sedan (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,92,94,93,10,Elite,93.0,93.0
+"BMW i5 xDrive40 Sedan (21"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,small car,10,86,87,87,10,Elite,87.0,87.0
+"BMW i5 xDrive40 Sedan (21"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,small car,10,86,87,87,10,Elite,87.0,87.0
+BMW i7 M70 xDrive Sedan (20'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXJ00.0I2T,large car,10,72,79,75,10,Elite,75.0,75.0
+BMW i7 M70 xDrive Sedan (20'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXJ00.0I2T,large car,10,72,79,75,10,Elite,75.0,75.0
+BMW i7 M70 xDrive Sedan (21'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXJ00.0I2T,large car,10,77,83,79,10,Elite,79.0,79.0
+BMW i7 M70 xDrive Sedan (21'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXJ00.0I2T,large car,10,77,83,79,10,Elite,79.0,79.0
+BMW i7 eDrive50 Sedan (19'' Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G7S,large car,10,85,93,88,10,Elite,88.0,88.0
+BMW i7 eDrive50 Sedan (19'' Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G7S,large car,10,85,93,88,10,Elite,88.0,88.0
+BMW i7 eDrive50 Sedan (20'' Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G7S,large car,10,82,88,85,10,Elite,85.0,85.0
+BMW i7 eDrive50 Sedan (20'' Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G7S,large car,10,82,88,85,10,Elite,85.0,85.0
+BMW i7 eDrive50 Sedan (21'' Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G7S,large car,10,84,90,87,10,Elite,87.0,87.0
+BMW i7 eDrive50 Sedan (21'' Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G7S,large car,10,84,90,87,10,Elite,87.0,87.0
+BMW i7 xDrive60 Sedan (19'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,large car,10,85,91,88,10,Elite,88.0,88.0
+BMW i7 xDrive60 Sedan (19'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,large car,10,85,91,88,10,Elite,88.0,88.0
+BMW i7 xDrive60 Sedan (20'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,large car,10,81,85,83,10,Elite,83.0,83.0
+BMW i7 xDrive60 Sedan (20'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,large car,10,81,85,83,10,Elite,83.0,83.0
+BMW i7 xDrive60 Sedan (21'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0G2X,large car,10,85,89,87,10,Elite,87.0,87.0
+BMW i7 xDrive60 Sedan (21'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0G2X,large car,10,85,89,87,10,Elite,87.0,87.0
+BMW iX M60 (21'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXJ00.0I2T,standard SUV,10,75,77,76,10,Elite,76.0,76.0
+BMW iX M60 (21'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXJ00.0I2T,standard SUV,10,75,77,76,10,Elite,76.0,76.0
+BMW iX M60 (22'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXJ00.0I2T,standard SUV,10,75,79,77,10,Elite,77.0,77.0
+BMW iX M60 (22'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXJ00.0I2T,standard SUV,10,75,79,77,10,Elite,77.0,77.0
+BMW iX xDrive40 (20'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXT00.0I2M,standard SUV,10,87,85,86,10,Elite,86.0,86.0
+BMW iX xDrive40 (20'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXT00.0I2M,standard SUV,10,87,85,86,10,Elite,86.0,86.0
+BMW iX xDrive40 (21'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXT00.0I2M,standard SUV,10,84,81,83,10,Elite,83.0,83.0
+BMW iX xDrive40 (21'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXT00.0I2M,standard SUV,10,84,81,83,10,Elite,83.0,83.0
+BMW iX xDrive40 (22'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXT00.0I2M,standard SUV,10,89,85,87,10,Elite,87.0,87.0
+BMW iX xDrive40 (22'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXT00.0I2M,standard SUV,10,89,85,87,10,Elite,87.0,87.0
+"BMW iX xDrive50 (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXT00.0I2M,standard SUV,10,82,84,83,10,Elite,83.0,83.0
+"BMW iX xDrive50 (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXT00.0I2M,standard SUV,10,82,84,83,10,Elite,83.0,83.0
+"BMW iX xDrive50 (21"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXT00.0I2M,standard SUV,10,82,81,81,10,Elite,81.0,81.0
+"BMW iX xDrive50 (21"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXT00.0I2M,standard SUV,10,82,81,81,10,Elite,81.0,81.0
+BMW iX xDrive50 (22'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXT00.0I2M,standard SUV,10,82,81,81,10,Elite,81.0,81.0
+BMW iX xDrive50 (22'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXT00.0I2M,standard SUV,10,82,81,81,10,Elite,81.0,81.0
+CHRYSLER Pacifica Hybrid,3.6,6.0,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SCRXT03.65PH,minivan,6,29/87,30/77,30,9,Yes,45.0,44.835
+CHRYSLER Pacifica Hybrid,3.6,6.0,CVT,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SCRXT03.65PH,minivan,6,29/87,30/77,30,9,Yes,45.0,44.835
+GENESIS Electrified G80,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0H00,midsize car,10,105,89,97,10,Elite,97.0,97.0
+GENESIS Electrified G80,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0H00,midsize car,10,105,89,97,10,Elite,97.0,97.0
+GENESIS Electrified GV70,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0U00,small SUV,10,98,83,91,10,Elite,91.0,91.0
+GENESIS Electrified GV70,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0U00,small SUV,10,98,83,91,10,Elite,91.0,91.0
+"GENESIS GV60 AWD (19"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0301,small SUV,10,110,90,100,10,Elite,100.0,100.0
+"GENESIS GV60 AWD (19"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0301,small SUV,10,110,90,100,10,Elite,100.0,100.0
+"GENESIS GV60 AWD Advanced (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0301,small SUV,10,103,86,95,10,Elite,95.0,95.0
+"GENESIS GV60 AWD Advanced (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0301,small SUV,10,103,86,95,10,Elite,95.0,95.0
+GENESIS GV60 AWD Performance,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0302,small SUV,10,97,82,90,10,Elite,90.0,90.0
+GENESIS GV60 AWD Performance,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0302,small SUV,10,97,82,90,10,Elite,90.0,90.0
+GENESIS GV60 RWD,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0300,small SUV,10,125,99,112,10,Elite,112.0,112.0
+GENESIS GV60 RWD,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0300,small SUV,10,125,99,112,10,Elite,112.0,112.0
+GMC Hummer EV Pickup,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0009,pickup,10,58,46,52,10,Elite,52.0,52.0
+GMC Hummer EV Pickup,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0009,pickup,10,58,46,52,10,Elite,52.0,52.0
+GMC Hummer EV Pickup,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0012,pickup,10,59,47,53,10,Elite,53.0,53.0
+GMC Hummer EV Pickup,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0012,pickup,10,59,47,53,10,Elite,53.0,53.0
+GMC Hummer EV Pickup MT Tires,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0009,pickup,10,53,43,48,10,Elite,48.0,47.98
+GMC Hummer EV Pickup MT Tires,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0009,pickup,10,53,43,48,10,Elite,48.0,47.98
+GMC Hummer EV Pickup MT Tires,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0012,pickup,10,52,42,47,10,Elite,47.0,47.0
+GMC Hummer EV Pickup MT Tires,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0012,pickup,10,52,42,47,10,Elite,47.0,47.0
+GMC Hummer EV SUV,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0009,standard SUV,10,58,46,52,10,Elite,52.0,52.0
+GMC Hummer EV SUV,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0009,standard SUV,10,58,46,52,10,Elite,52.0,52.0
+GMC Hummer EV SUV,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0012,standard SUV,10,59,46,53,10,Elite,53.0,53.0
+GMC Hummer EV SUV,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0012,standard SUV,10,59,46,53,10,Elite,53.0,53.0
+GMC Hummer EV SUV MT Tires,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0009,standard SUV,10,53,43,48,10,Elite,48.0,47.98
+GMC Hummer EV SUV MT Tires,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0009,standard SUV,10,53,43,48,10,Elite,48.0,47.98
+GMC Hummer EV SUV MT Tires,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SGMXT00.0012,standard SUV,10,52,42,47,10,Elite,47.0,47.0
+GMC Hummer EV SUV MT Tires,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SGMXT00.0012,standard SUV,10,52,42,47,10,Elite,47.0,47.0
+HONDA CR-V e-FCEV,-1.0,-1.0,Auto-1,2WD,Electricity/Hydrogen,FA,T3B0,Federal Tier 3 Bin 0,SHNXV00.0RRG,small SUV,10,94,79,87,10,Elite,87.0,87.0
+HONDA CR-V e-FCEV,-1.0,-1.0,Auto-1,2WD,Electricity/Hydrogen,CA,ZEV,California ZEV,SHNXV00.0RRG,small SUV,10,94,79,87,10,Elite,87.0,87.0
+HONDA Civic 4Dr,2.0,4.0,CVT,2WD,Gasoline,CA,OT,Other,SHNXV02.0GES,midsize car,6,50,47,49,8,Yes,65.33333333333333,65.37333333333326
+HONDA Civic 4Dr,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,SHNXV02.0GES,midsize car,6,50,47,49,8,Yes,65.33333333333333,65.37333333333326
+HYUNDAI Elantra Hybrid,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,SHYXV01.6C13,midsize car,6,49,52,50,8,Yes,66.66666666666667,66.58666666666676
+HYUNDAI Elantra Hybrid,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,SHYXV01.6C13,midsize car,6,49,52,50,8,Yes,66.66666666666667,66.58666666666676
+HYUNDAI Elantra Hybrid Blue,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,SHYXV01.6C13,midsize car,6,51,58,54,8,Yes,72.0,70.78857142857142
+HYUNDAI Elantra Hybrid Blue,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,SHYXV01.6C13,midsize car,6,51,58,54,8,Yes,72.0,70.78857142857142
+HYUNDAI Ioniq 5 N,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0W04,small SUV,10,84,72,78,10,Elite,78.0,78.0
+HYUNDAI Ioniq 5 N,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0W04,small SUV,10,84,72,78,10,Elite,78.0,78.0
+"HYUNDAI Ioniq 6 (18"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0201,midsize car,10,144,120,132,10,Elite,132.0,132.0
+"HYUNDAI Ioniq 6 (18"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0201,midsize car,10,144,120,132,10,Elite,132.0,132.0
+"HYUNDAI Ioniq 6 (18"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0202,midsize car,10,130,111,121,10,Elite,121.0,121.0
+"HYUNDAI Ioniq 6 (18"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0202,midsize car,10,130,111,121,10,Elite,121.0,121.0
+"HYUNDAI Ioniq 6 (20"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0201,midsize car,10,123,100,111,10,Elite,111.0,111.0
+"HYUNDAI Ioniq 6 (20"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0201,midsize car,10,123,100,111,10,Elite,111.0,111.0
+"HYUNDAI Ioniq 6 (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0202,midsize car,10,111,94,103,10,Elite,103.0,103.0
+"HYUNDAI Ioniq 6 (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0202,midsize car,10,111,94,103,10,Elite,103.0,103.0
+HYUNDAI Ioniq 6 Standard Range,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0200,midsize car,10,151,120,135,10,Elite,135.0,135.0
+HYUNDAI Ioniq 6 Standard Range,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0200,midsize car,10,151,120,135,10,Elite,135.0,135.0
+"HYUNDAI Kona Electric (17"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0K01,small SUV,10,129,103,116,10,Elite,116.0,116.0
+"HYUNDAI Kona Electric (17"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0K01,small SUV,10,129,103,116,10,Elite,116.0,116.0
+"HYUNDAI Kona Electric (19"" Wheels)",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0K01,small SUV,10,113,93,103,10,Elite,103.0,103.0
+"HYUNDAI Kona Electric (19"" Wheels)",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0K01,small SUV,10,113,93,103,10,Elite,103.0,103.0
+HYUNDAI Kona Electric Standard Range,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SHYXV00.0K00,small SUV,10,131,105,118,10,Elite,118.0,118.0
+HYUNDAI Kona Electric Standard Range,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SHYXV00.0K00,small SUV,10,131,105,118,10,Elite,118.0,118.0
+HYUNDAI Sonata Hybrid,2.0,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,SHYXV02.0E13,large car,6,44,51,47,8,Yes,62.666666666666664,62.65333333333339
+HYUNDAI Sonata Hybrid,2.0,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,SHYXV02.0E13,large car,6,44,51,47,8,Yes,62.666666666666664,62.65333333333339
+HYUNDAI Tuscon Plug-in Hybrid,1.6,4.0,AMS-6,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SHYXT01.6L2T,small SUV,6,35/80,35/73,35,9,Yes,52.5,52.025
+HYUNDAI Tuscon Plug-in Hybrid,1.6,4.0,AMS-6,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SHYXT01.6L2T,small SUV,6,35/80,35/73,35,9,Yes,52.5,52.025
+JEEP Grand Cherokee,2.0,4.0,Auto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SCRXT02.05PH,standard SUV,6,23/57,24/56,23,8,Yes,30.666666666666668,31.333095238095225
+JEEP Grand Cherokee,2.0,4.0,Auto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SCRXT02.05PH,standard SUV,6,23/57,24/56,23,8,Yes,30.666666666666668,31.333095238095225
+KIA EV9 Long Range AWD,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SKMXV00.0300,standard SUV,10,91,75,83,10,Elite,83.0,83.0
+KIA EV9 Long Range AWD,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SKMXV00.0300,standard SUV,10,91,75,83,10,Elite,83.0,83.0
+KIA EV9 Long Range AWD GT-Line,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SKMXV00.0300,standard SUV,10,88,72,80,10,Elite,80.0,80.0
+KIA EV9 Long Range AWD GT-Line,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SKMXV00.0300,standard SUV,10,88,72,80,10,Elite,80.0,80.0
+KIA EV9 Long Range RWD,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SKMXV00.0301,standard SUV,10,100,78,89,10,Elite,89.0,89.0
+KIA EV9 Long Range RWD,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SKMXV00.0301,standard SUV,10,100,78,89,10,Elite,89.0,89.0
+KIA EV9 Standard Range RWD,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SKMXV00.0302,standard SUV,10,99,77,88,10,Elite,88.0,88.0
+KIA EV9 Standard Range RWD,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SKMXV00.0302,standard SUV,10,99,77,88,10,Elite,88.0,88.0
+KIA Niro,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,SKMXV01.6213,small SUV,6,53,45,49,8,Yes,65.33333333333333,65.37333333333326
+KIA Niro,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,SKMXV01.6213,small SUV,6,53,45,49,8,Yes,65.33333333333333,65.37333333333326
+KIA Niro Electric,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SKMXV00.0200,small SUV,10,126,101,113,10,Elite,113.0,113.0
+KIA Niro Electric,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SKMXV00.0200,small SUV,10,126,101,113,10,Elite,113.0,113.0
+KIA Niro FE,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,SKMXV01.6213,small SUV,6,53,54,53,8,Yes,70.66666666666667,69.44000000000005
+KIA Niro FE,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,SKMXV01.6213,small SUV,6,53,54,53,8,Yes,70.66666666666667,69.44000000000005
+KIA Niro Plug-in Hybrid,1.6,4.0,AMS-6,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SKMXV01.622T,small SUV,6,49/113,47/102,48,10,Yes,80.0,68.51047619047611
+KIA Niro Plug-in Hybrid,1.6,4.0,AMS-6,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SKMXV01.622T,small SUV,6,49/113,47/102,48,10,Yes,80.0,68.51047619047611
+KIA Sorento Plug-in Hybrid,1.6,4.0,AMS-6,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SKMXV01.6J2T,small SUV,6,33/77,34/71,33,9,Yes,49.5,49.06285714285714
+KIA Sorento Plug-in Hybrid,1.6,4.0,AMS-6,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SKMXV01.6J2T,small SUV,6,33/77,34/71,33,9,Yes,49.5,49.06285714285714
+KIA Sportage Plug-in Hybrid,1.6,4.0,AMS-6,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SKMXT01.6P2T,small SUV,6,36/88,35/79,35,9,Yes,52.5,52.025
+KIA Sportage Plug-in Hybrid,1.6,4.0,AMS-6,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SKMXT01.6P2T,small SUV,6,36/88,35/79,35,9,Yes,52.5,52.025
+LAND ROVER Range Rover P550 PHEV,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SJLXT03.0PTC,standard SUV,6,21/51,22/56,21,9,Yes,31.5,31.545
+LAND ROVER Range Rover P550 PHEV,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SJLXT03.0PTC,standard SUV,6,21/51,22/56,21,9,Yes,31.5,31.545
+LAND ROVER Range Rover Sport P460 PHEV,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SJLXT03.0PTC,standard SUV,6,21/51,22/56,21,9,Yes,31.5,31.545
+LAND ROVER Range Rover Sport P460 PHEV,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SJLXT03.0PTC,standard SUV,6,21/51,22/56,21,9,Yes,31.5,31.545
+LEXUS NX 450h+,2.5,4.0,SCV-6,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,STYXT02.5P3W,small SUV,6,38/93,33/75,36,9,Yes,54.0,51.40285714285714
+LEXUS NX 450h+,2.5,4.0,SCV-6,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,STYXT02.5P3W,small SUV,6,38/93,33/75,36,9,Yes,54.0,51.40285714285714
+"LUCID Air G Touring XR AWD w/19"" wheels",,,Auto-1,4WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,129,126,128,10,Elite,128.0,128.36
+"LUCID Air G Touring XR AWD w/19"" wheels",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,129,126,128,10,Elite,128.0,128.36
+"LUCID Air G Touring XR AWD w/19"" wheels",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0ZA2,large car,10,129,126,128,10,Elite,128.0,128.36
+"LUCID Air G Touring XR AWD w/20"" wheels",,,Auto-1,4WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,122,117,120,10,Elite,120.0,120.0
+"LUCID Air G Touring XR AWD w/20"" wheels",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,122,117,120,10,Elite,120.0,120.0
+"LUCID Air G Touring XR AWD w/20"" wheels",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0ZA2,large car,10,122,117,120,10,Elite,120.0,120.0
+"LUCID Air G Touring XR AWD w/21"" wheels",,,Auto-1,4WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,114,109,112,10,Elite,112.0,112.0
+"LUCID Air G Touring XR AWD w/21"" wheels",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,114,109,112,10,Elite,112.0,112.0
+"LUCID Air G Touring XR AWD w/21"" wheels",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0ZA2,large car,10,114,109,112,10,Elite,112.0,112.0
+"LUCID Air Pure RWD w/19"" wheels",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0NR1,large car,10,149,142,146,10,Elite,146.0,145.5
+"LUCID Air Pure RWD w/19"" wheels",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0NR1,large car,10,149,142,146,10,Elite,146.0,145.5
+"LUCID Air Pure RWD w/20"" wheels",,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0NR1,large car,10,132,125,129,10,Elite,129.0,128.99
+"LUCID Air Pure RWD w/20"" wheels",,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0NR1,large car,10,132,125,129,10,Elite,129.0,128.99
+LUCID Air Sapphire AWD,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0GJ3,large car,10,108,101,105,10,Elite,105.0,105.0
+LUCID Air Sapphire AWD,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0GJ3,large car,10,108,101,105,10,Elite,105.0,105.0
+"LUCID Air Touring AWD w/19"" wheels",,,Auto-1,4WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,133,130,132,10,Elite,132.0,132.0
+"LUCID Air Touring AWD w/19"" wheels",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,133,130,132,10,Elite,132.0,132.0
+"LUCID Air Touring AWD w/19"" wheels",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0ZA2,large car,10,133,130,132,10,Elite,132.0,132.0
+"LUCID Air Touring AWD w/20"" wheels",,,Auto-1,4WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,124,119,121,10,Elite,121.0,121.0
+"LUCID Air Touring AWD w/20"" wheels",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,124,119,121,10,Elite,121.0,121.0
+"LUCID Air Touring AWD w/20"" wheels",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0ZA2,large car,10,124,119,121,10,Elite,121.0,121.0
+"LUCID Air Touring AWD w/21"" wheels",,,Auto-1,4WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,119,113,116,10,Elite,116.0,116.0
+"LUCID Air Touring AWD w/21"" wheels",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SLMUV00.0ZA2,large car,10,119,113,116,10,Elite,116.0,116.0
+"LUCID Air Touring AWD w/21"" wheels",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SLMUV00.0ZA2,large car,10,119,113,116,10,Elite,116.0,116.0
+"MASERATI Grecale Folgore (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMAXT00.0182,small SUV,10,80,70,75,10,Elite,75.0,75.0
+"MASERATI Grecale Folgore (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMAXT00.0182,small SUV,10,80,70,75,10,Elite,75.0,75.0
+"MASERATI Grecale Folgore (21"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMAXT00.0182,small SUV,10,65,59,62,10,Elite,62.0,61.65
+"MASERATI Grecale Folgore (21"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMAXT00.0182,small SUV,10,65,59,62,10,Elite,62.0,61.65
+MAZDA CX-70,2.5,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,STKXT02.5CDB,standard SUV,6,24/53,27/61,25,8,Yes,33.333333333333336,33.32000000000004
+MAZDA CX-70,2.5,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,STKXT02.5CDB,standard SUV,6,24/53,27/61,25,8,Yes,33.333333333333336,33.32000000000004
+MAZDA CX-90,2.5,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,STKXT02.5CDB,standard SUV,6,24/53,27/61,25,8,Yes,33.333333333333336,33.32000000000004
+MAZDA CX-90,2.5,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,STKXT02.5CDB,standard SUV,6,24/53,27/61,25,8,Yes,33.333333333333336,33.32000000000004
+MERCEDES-BENZ AMG EQE 4Matic+,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED3,midsize car,10,69,71,70,10,Elite,70.0,70.0
+MERCEDES-BENZ AMG EQE 4Matic+,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED3,standard SUV,10,76,72,74,10,Elite,74.0,74.0
+MERCEDES-BENZ AMG EQE 4Matic+,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED3,midsize car,10,69,71,70,10,Elite,70.0,70.0
+MERCEDES-BENZ AMG EQE 4Matic+,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED3,standard SUV,10,76,72,74,10,Elite,74.0,74.0
+MERCEDES-BENZ AMG EQS 4Matic+,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED2,large car,10,76,81,78,10,Elite,78.0,78.0
+MERCEDES-BENZ AMG EQS 4Matic+,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED2,large car,10,76,81,78,10,Elite,78.0,78.0
+MERCEDES-BENZ EQE 350 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED2,midsize car,10,87,85,86,10,Elite,86.0,86.0
+MERCEDES-BENZ EQE 350 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED2,standard SUV,10,84,78,81,10,Elite,81.0,81.0
+MERCEDES-BENZ EQE 350 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED2,midsize car,10,87,85,86,10,Elite,86.0,86.0
+MERCEDES-BENZ EQE 350 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED2,standard SUV,10,84,78,81,10,Elite,81.0,81.0
+MERCEDES-BENZ EQE 350+,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED1,station wagon,10,98,87,93,10,Elite,93.0,93.0
+MERCEDES-BENZ EQE 350+,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED1,station wagon,10,98,87,93,10,Elite,93.0,93.0
+MERCEDES-BENZ EQE 500 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED2,midsize car,10,85,84,85,10,Elite,85.0,85.0
+MERCEDES-BENZ EQE 500 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXV00.0ED2,station wagon,10,83,78,81,10,Elite,81.0,81.0
+MERCEDES-BENZ EQE 500 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED2,midsize car,10,85,84,85,10,Elite,85.0,85.0
+MERCEDES-BENZ EQE 500 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXV00.0ED2,station wagon,10,83,78,81,10,Elite,81.0,81.0
+MERCEDES-BENZ EQS 450 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED2,large car,10,91,93,92,10,Elite,92.0,92.0
+MERCEDES-BENZ EQS 450 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED2,standard SUV,10,80,78,79,10,Elite,79.0,79.0
+MERCEDES-BENZ EQS 450 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED2,large car,10,91,93,92,10,Elite,92.0,92.0
+MERCEDES-BENZ EQS 450 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED2,standard SUV,10,80,78,79,10,Elite,79.0,79.0
+MERCEDES-BENZ EQS 450+,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED1,large car,10,98,98,98,10,Elite,98.0,98.0
+MERCEDES-BENZ EQS 450+,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED1,standard SUV,10,84,79,82,10,Elite,82.0,82.0
+MERCEDES-BENZ EQS 450+,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED1,large car,10,98,98,98,10,Elite,98.0,98.0
+MERCEDES-BENZ EQS 450+,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED1,standard SUV,10,84,79,82,10,Elite,82.0,82.0
+MERCEDES-BENZ EQS 580 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED2,large car,10,93,93,93,10,Elite,93.0,93.0
+MERCEDES-BENZ EQS 580 4Matic,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED2,standard SUV,10,82,78,80,10,Elite,80.0,80.0
+MERCEDES-BENZ EQS 580 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED2,large car,10,93,93,93,10,Elite,93.0,93.0
+MERCEDES-BENZ EQS 580 4Matic,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED2,standard SUV,10,82,78,80,10,Elite,80.0,80.0
+MERCEDES-BENZ EQS 680 4MATIC Maybach (SUV),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SMBXJ00.0ED2,standard SUV,10,76,76,76,10,Elite,76.0,76.0
+MERCEDES-BENZ EQS 680 4MATIC Maybach (SUV),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SMBXJ00.0ED2,standard SUV,10,76,76,76,10,Elite,76.0,76.0
+MERCEDES-BENZ GLC 350e 4Matic EQ Hybrid,2.0,4.0,Auto-9,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SMBXT02.0HY2,small SUV,6,23/60,28/70,25,9,Yes,37.5,37.36833333333333
+MERCEDES-BENZ GLC 350e 4Matic EQ Hybrid,2.0,4.0,Auto-9,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SMBXT02.0HY2,small SUV,6,23/60,28/70,25,9,Yes,37.5,37.36833333333333
+MERCEDES-BENZ GLE 450e 4MATIC,2.0,4.0,Auto-9,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SMBXT02.0HY2,standard SUV,6,21/57,26/63,23,9,Yes,34.5,34.188333333333325
+MERCEDES-BENZ GLE 450e 4MATIC,2.0,4.0,Auto-9,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SMBXT02.0HY2,standard SUV,6,21/57,26/63,23,9,Yes,34.5,34.188333333333325
+"MINI Countryman SE All4 (18"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0U2X,small SUV,10,99,94,96,10,Elite,96.0,96.0
+"MINI Countryman SE All4 (18"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0U2X,small SUV,10,99,94,96,10,Elite,96.0,96.0
+"MINI Countryman SE All4 (19"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBMXV00.0U2X,small SUV,10,94,88,91,10,Elite,91.0,91.0
+"MINI Countryman SE All4 (19"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBMXV00.0U2X,small SUV,10,94,88,91,10,Elite,91.0,91.0
+MITSUBISHI Outlander PHEV,2.4,4.0,Auto-1,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SMTXT02.4H3M,standard SUV,6,25/67,27/61,26,9,Yes,39.0,38.79
+MITSUBISHI Outlander PHEV,2.4,4.0,Auto-1,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SMTXT02.4H3M,standard SUV,6,25/67,27/61,26,9,Yes,39.0,38.79
+NISSAN Leaf,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SNSXV0000TL2,midsize car,10,123,99,111,10,Elite,111.0,111.0
+NISSAN Leaf,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SNSXV0000TL2,midsize car,10,123,99,111,10,Elite,111.0,111.0
+NISSAN Leaf,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SNSXV0000TS4,midsize car,10,121,98,109,10,Elite,109.0,109.0
+NISSAN Leaf,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SNSXV0000TS4,midsize car,10,121,98,109,10,Elite,109.0,109.0
+POLESTAR 2 Dual Motor (19 Inch Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0A,midsize car,10,105,95,101,10,Elite,101.0,101.0
+POLESTAR 2 Dual Motor (19 Inch Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0A,midsize car,10,105,95,101,10,Elite,101.0,101.0
+POLESTAR 2 Dual Motor (20 Inch Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0A,midsize car,10,101,92,97,10,Elite,97.0,97.0
+POLESTAR 2 Dual Motor (20 Inch Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0A,midsize car,10,101,92,97,10,Elite,97.0,97.0
+POLESTAR 2 Dual Motor Performance Pack,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0A,midsize car,10,95,87,91,10,Elite,91.0,91.0
+POLESTAR 2 Dual Motor Performance Pack,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0A,midsize car,10,95,87,91,10,Elite,91.0,91.0
+POLESTAR 2 Single Motor (19 Inch Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0B,midsize car,10,123,104,114,10,Elite,114.0,114.0
+POLESTAR 2 Single Motor (19 Inch Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0B,midsize car,10,123,104,114,10,Elite,114.0,114.0
+POLESTAR 2 Single Motor (20 Inch Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0B,midsize car,10,117,101,109,10,Elite,109.0,109.0
+POLESTAR 2 Single Motor (20 Inch Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0B,midsize car,10,117,101,109,10,Elite,109.0,109.0
+"POLESTAR 3 Long Range Dual Motor (20"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXT00.0Z0E,standard SUV,10,91,82,87,10,Elite,87.0,87.0
+"POLESTAR 3 Long Range Dual Motor (20"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXT00.0Z0E,standard SUV,10,91,82,87,10,Elite,87.0,87.0
+"POLESTAR 3 Long Range Dual Motor (21"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXT00.0Z0E,standard SUV,10,92,84,88,10,Elite,88.0,88.0
+"POLESTAR 3 Long Range Dual Motor (21"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXT00.0Z0E,standard SUV,10,92,84,88,10,Elite,88.0,88.0
+"POLESTAR 3 Long Range Dual Motor (22"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXT00.0Z0E,standard SUV,10,84,76,80,10,Elite,80.0,80.0
+"POLESTAR 3 Long Range Dual Motor (22"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXT00.0Z0E,standard SUV,10,84,76,80,10,Elite,80.0,80.0
+POLESTAR 3 Long Range Dual Motor Performance Pack,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXT00.0Z0E,standard SUV,10,81,73,77,10,Elite,77.0,77.0
+POLESTAR 3 Long Range Dual Motor Performance Pack,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXT00.0Z0E,standard SUV,10,81,73,77,10,Elite,77.0,77.0
+POLESTAR 4 Long Range Dual Motor,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0I,standard SUV,10,86,80,83,10,Elite,83.0,83.0
+POLESTAR 4 Long Range Dual Motor,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0I,standard SUV,10,86,80,83,10,Elite,83.0,83.0
+POLESTAR 4 Long Range Single Motor,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0J,standard SUV,10,93,87,90,10,Elite,90.0,90.0
+POLESTAR 4 Long Range Single Motor,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0J,standard SUV,10,93,87,90,10,Elite,90.0,90.0
+PORSCHE Taycan 4S Perf Battery Plus 19in,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SPRXV00.0ETT,small car,10,94,92,93,10,Elite,93.0,93.0
+PORSCHE Taycan 4S Perf Battery Plus 19in,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,SPRXV00.0ETT,small car,10,94,92,93,10,Elite,93.0,93.0
+PORSCHE Taycan Perf Battery Plus,,,Auto-2,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SPRXV00.0ETS,small car,10,94,90,92,10,Elite,92.0,92.0
+PORSCHE Taycan Perf Battery Plus,,,Auto-2,2WD,Electricity,CA,ZEV,California ZEV,SPRXV00.0ETS,small car,10,94,90,92,10,Elite,92.0,92.0
+PORSCHE Taycan Performance Battery,,,Auto-2,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SPRXV00.0ETS,small car,10,94,88,91,10,Elite,91.0,91.0
+PORSCHE Taycan Performance Battery,,,Auto-2,2WD,Electricity,CA,ZEV,California ZEV,SPRXV00.0ETS,small car,10,94,88,91,10,Elite,91.0,91.0
+RIMAC Nevera,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SBGRV00.0CJP,small car,10,52,54,53,10,Elite,53.0,53.0
+RIMAC Nevera,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SBGRV00.0CJP,small car,10,52,54,53,10,Elite,53.0,53.0
+RIVIAN R1S All-Terrain Dual Large Plus (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1S All-Terrain Dual Large Plus (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1S All-Terrain Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1S All-Terrain Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1S All-Terrain Performance Dual Large Plus (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1S All-Terrain Performance Dual Large Plus (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1S All-Terrain Performance Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1S All-Terrain Performance Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1S Dual Large Plus (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1S Dual Large Plus (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1S Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1S Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1S Dual Max (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,91,77,84,10,Elite,84.0,84.0
+RIVIAN R1S Dual Max (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,91,77,84,10,Elite,84.0,84.0
+RIVIAN R1S Dual Standard (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.01L2,standard SUV,10,85,72,79,10,Elite,79.0,79.0
+RIVIAN R1S Dual Standard (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.01L2,standard SUV,10,85,72,79,10,Elite,79.0,79.0
+RIVIAN R1S Dual Standard (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.01L2,standard SUV,10,92,77,85,10,Elite,85.0,85.0
+RIVIAN R1S Dual Standard (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.01L2,standard SUV,10,92,77,85,10,Elite,85.0,85.0
+RIVIAN R1S Performance Dual Large Plus (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1S Performance Dual Large Plus (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1S Performance Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1S Performance Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1S Performance Dual Max (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,standard SUV,10,91,77,84,10,Elite,84.0,84.0
+RIVIAN R1S Performance Dual Max (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,standard SUV,10,91,77,84,10,Elite,84.0,84.0
+RIVIAN R1T All-Terrain Dual Large Plus (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1T All-Terrain Dual Large Plus (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1T All-Terrain Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1T All-Terrain Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1T All-Terrain Performance Dual Large Plus (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1T All-Terrain Performance Dual Large Plus (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,76,67,72,10,Elite,72.0,72.0
+RIVIAN R1T All-Terrain Performance Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1T All-Terrain Performance Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,82,73,78,10,Elite,78.0,78.0
+RIVIAN R1T Dual Large Plus (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1T Dual Large Plus (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1T Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1T Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1T Dual Max (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,93,80,87,10,Elite,87.0,87.0
+RIVIAN R1T Dual Max (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,93,80,87,10,Elite,87.0,87.0
+RIVIAN R1T Dual Standard (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.01L2,pickup,10,85,72,79,10,Elite,79.0,79.0
+RIVIAN R1T Dual Standard (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.01L2,pickup,10,85,72,79,10,Elite,79.0,79.0
+RIVIAN R1T Dual Standard (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.01L2,pickup,10,92,77,85,10,Elite,85.0,85.0
+RIVIAN R1T Dual Standard (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.01L2,pickup,10,92,77,85,10,Elite,85.0,85.0
+RIVIAN R1T Performance Dual Large Plus (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1T Performance Dual Large Plus (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,89,75,82,10,Elite,82.0,82.0
+RIVIAN R1T Performance Dual Max (20in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1T Performance Dual Max (20in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,86,74,80,10,Elite,80.0,80.0
+RIVIAN R1T Performance Dual Max (22in),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRIVT00.0SEP,pickup,10,93,80,87,10,Elite,87.0,87.0
+RIVIAN R1T Performance Dual Max (22in),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRIVT00.0SEP,pickup,10,93,80,87,10,Elite,87.0,87.0
+ROLLS-ROYCE Black Badge Spectre (22'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRRGV00.0R2B,small car,10,70,80,74,10,Elite,74.0,74.0
+ROLLS-ROYCE Black Badge Spectre (22'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRRGV00.0R2B,small car,10,70,80,74,10,Elite,74.0,74.0
+ROLLS-ROYCE Black Badge Spectre (23'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRRGV00.0R2B,small car,10,67,74,70,10,Elite,70.0,70.0
+ROLLS-ROYCE Black Badge Spectre (23'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRRGV00.0R2B,small car,10,67,74,70,10,Elite,70.0,70.0
+ROLLS-ROYCE Spectre (22'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRRGV00.0R2B,small car,10,74,82,77,10,Elite,77.0,77.0
+ROLLS-ROYCE Spectre (22'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRRGV00.0R2B,small car,10,74,82,77,10,Elite,77.0,77.0
+ROLLS-ROYCE Spectre (23'' Wheels),,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SRRGV00.0R2B,small car,10,67,75,70,10,Elite,70.0,70.0
+ROLLS-ROYCE Spectre (23'' Wheels),,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SRRGV00.0R2B,small car,10,67,75,70,10,Elite,70.0,70.0
+TOYOTA Camry HEV AWD LE,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,STYXV02.5P3A,midsize car,6,51,49,50,8,Yes,66.66666666666667,66.58666666666676
+TOYOTA Camry HEV AWD LE,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,STYXV02.5P3A,midsize car,6,51,49,50,8,Yes,66.66666666666667,66.58666666666676
+TOYOTA Camry HEV AWD SE/XLE,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,STYXV02.5P3A,midsize car,6,46,46,46,8,Yes,61.333333333333336,61.37904761904756
+TOYOTA Camry HEV AWD SE/XLE,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,STYXV02.5P3A,midsize car,6,46,46,46,8,Yes,61.333333333333336,61.37904761904756
+TOYOTA Camry HEV FF LE,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,STYXV02.5P3A,midsize car,6,53,50,51,8,Yes,68.0,67.53333333333337
+TOYOTA Camry HEV FF LE,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,STYXV02.5P3A,midsize car,6,53,50,51,8,Yes,68.0,67.53333333333337
+TOYOTA Camry HEV FF SE/XLE/XSE,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,STYXV02.5P3A,midsize car,6,48,47,47,8,Yes,62.666666666666664,62.65333333333339
+TOYOTA Camry HEV FF SE/XLE/XSE,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,STYXV02.5P3A,midsize car,6,48,47,47,8,Yes,62.666666666666664,62.65333333333339
+VOLVO EC40,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0B,small SUV,10,118,95,106,10,Elite,106.0,106.0
+VOLVO EC40,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0B,small SUV,10,118,95,106,10,Elite,106.0,106.0
+VOLVO EC40 Twin,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0A,small SUV,10,105,88,97,10,Elite,97.0,97.0
+VOLVO EC40 Twin,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0A,small SUV,10,105,88,97,10,Elite,97.0,97.0
+VOLVO EX30 Single Motor Extended Range (18 Inch Wheels),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0D,small SUV,10,124,103,114,10,Elite,114.0,114.0
+VOLVO EX30 Single Motor Extended Range (18 Inch Wheels),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0D,small SUV,10,124,103,114,10,Elite,114.0,114.0
+VOLVO EX30 Single Motor Extended Range(19_20 Inch Wheel),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0D,small SUV,10,127,104,116,10,Elite,116.0,116.0
+VOLVO EX30 Single Motor Extended Range(19_20 Inch Wheel),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0D,small SUV,10,127,104,116,10,Elite,116.0,116.0
+VOLVO EX40,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0B,small SUV,10,118,94,106,10,Elite,106.0,106.0
+VOLVO EX40,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0B,small SUV,10,118,94,106,10,Elite,106.0,106.0
+VOLVO EX40 Twin,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,SVVXV00.0Z0A,small SUV,10,103,85,94,10,Elite,94.0,94.0
+VOLVO EX40 Twin,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,SVVXV00.0Z0A,small SUV,10,103,85,94,10,Elite,94.0,94.0
+VOLVO S60 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SVVXJ02.0P30,small car,6,30/74,33/73,31,9,Yes,46.5,46.455
+VOLVO S60 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SVVXJ02.0P30,small car,6,30/74,33/73,31,9,Yes,46.5,46.455
+VOLVO S90 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SVVXJ02.0P30,midsize car,6,28/66,31/67,29,9,Yes,43.5,43.22785714285714
+VOLVO S90 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SVVXJ02.0P30,midsize car,6,28/66,31/67,29,9,Yes,43.5,43.22785714285714
+VOLVO V60 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SVVXJ02.0P30,station wagon,6,30/74,33/73,31,9,Yes,46.5,46.455
+VOLVO V60 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SVVXJ02.0P30,station wagon,6,30/74,33/73,31,9,Yes,46.5,46.455
+VOLVO XC60 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SVVXJ02.0P30,small SUV,6,28/66,28/60,28,9,Yes,42.0,41.355
+VOLVO XC60 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SVVXJ02.0P30,small SUV,6,28/66,28/60,28,9,Yes,42.0,41.355
+VOLVO XC90 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,SVVXJ02.0P30,standard SUV,6,26/59,27/57,27,8,Yes,36.0,35.72523809523809
+VOLVO XC90 T8,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,SVVXJ02.0P30,standard SUV,6,26/59,27/57,27,8,Yes,36.0,35.72523809523809
