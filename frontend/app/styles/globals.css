@@ -3,4 +3,5 @@
   padding: 0;
   margin: 0;
   overflow-y: hidden; /* Hide vertical scrollbar */
+  --red-color: #eb0a1e;
 }

@@ -2,8 +2,10 @@ import React from "react";
 import Card from "../components/Card";
 import styles from "../styles/dashboard.module.css";
 import CarCard from "../components/CarCard";
-import cardStyles from "../styles/card.module.css";
 import ScoreCard from "../components/ScoreCard";
+import RadarGraph from "../components/RadarGraph";
+import MileCard from "../components/MileCard";
+import BarChart from "../components/BarChart";
 
 function Dashboard() {
   return (
@@ -11,10 +13,9 @@ function Dashboard() {
       <div className={styles.gridContainer}>
         <CarCard />
         <ScoreCard />
-        <Card variant={"main"} title={"City MPG"} statistic={35} />
-        <Card variant={"main"} title={"HWY MPG"} statistic={18} />
-        <Card variant={"main"} title={"MPG"} statistic={5} />
-        <Card variant={"main"} title={"MPG"} statistic={1} />
+        <RadarGraph />
+        <MileCard variant={"main"} title={"MPG"} statistic={123} />
+        <BarChart />
       </div>
     </div>
   );
