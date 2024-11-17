@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  background: linear-gradient(to right, #d7dbe8, #bfc5d2);
+  padding: 20px;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+/* Top Banner Styles */
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.textContainer {
+  flex: 1;
+}
+
+.carTitle {
+  font-size: 32px;
+  color: #5c85ff;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 18px;
+  color: #7a7a7a;
+  margin-top: 8px;
+}
+
+.imageContainer {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Sidebar Styles */
+.sidebar {
+  position: absolute;
+  top: 140px;
+  left: 20px;
+  background: #c3aaa9;
+  border-radius: 8px;
+  padding: 10px 20px;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sidebarText {
+  font-size: 16px;
+  color: #5c85ff;
+  font-weight: bold;
+}
+
+/* Grid Section */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  width: 100%;
+}
+
+.gridItem {
+  height: 120px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
