@@ -1,28 +1,31 @@
+// BarChart.js
 import React from "react";
-import Bar from "../components/BarChart";
 import BarConfig from "./Bar";
 import styles from "../styles/Card.module.css";
 
-const BarChart = () => {
+const BarChart = ({ carData }) => {
+  if (!carData || !carData[0]) {
+    return <p>Loading data...</p>;
+  }
+
+  const car = carData[0]; // Use the first car's data
   const chartData = {
-    labels: ["City CO2", "Hwy CO2", "Comb CO2"],
+    labels: ["City CO2", "Highway CO2", "Combined CO2"],
     datasets: [
       {
-        label: "Dataset 1",
-        data: [65, 59, 80, 81, 56, 55, 40],
-        backgroundColor: "rgba(235, 10, 30, 0.5)",
-        borderColor: "rgba(255, 99, 132, 1)",
+        label: `${car.make} ${car.model} (${car.year}) - CO2 Emissions`,
+        data: [
+          car.cityCO2 ? (car.cityCO2).toFixed(2) : 0, // Example conversion
+          car.hwyCO2 ? (car.hwyCO2).toFixed(2) : 0,
+          car.combCO2 ? (car.combCO2).toFixed(2) : 0,
+        ],
+        backgroundColor: ["#FF6384", "#36A2EB", "#FFCE56"],
+        borderColor: ["#FF6384", "#36A2EB", "#FFCE56"],
         borderWidth: 1,
       },
-      // {
-      //   label: "Dataset 2",
-      //   data: [28, 48, 40, 19, 86, 27, 90],
-      //   backgroundColor: "rgba(54, 162, 235, 0.5)",
-      //   borderColor: "rgba(54, 162, 235, 1)",
-      //   borderWidth: 1,
-      // },
     ],
   };
+
   return (
     <div className={styles.main}>
       <BarConfig data={chartData} />

@@ -1,31 +1,25 @@
 import React from "react";
 import styles from "../styles/CarCard.module.css";
-import Image from "next/image";
 
-function Card() {
+function CarCard({ carData }) {
+  if (!carData) {
+    return <p>Loading car data...</p>; // Fallback if no data is passed
+  }
+
   return (
     <div className={styles.main}>
       <div className={styles.content}>
-        <h1>Toyota Camry</h1>
+        <h1>{`${carData.make} ${carData.model}`}</h1>
         <ul>
-          <li>TOYOTA CAMRY</li>
-          <li>Semi-Automatic</li>
-          <li>2-Wheel Drive, Front</li>
+          <li>{carData.make}</li>
+          <li>{carData.model}</li>
+          <li>City MPG: {carData.cityFuelEconomy}</li>
+          <li>Highway MPG: {carData.highwayFuelEconomy}</li>
+          <li>Combined MPG: {carData.combinedFuelEconomy}</li>
         </ul>
-      </div>
-      <div className={styles.imgContainer}>
-        <Image
-          src="https://www.motortrend.com/uploads/2021/12/2022-Toyota-Camry-SE-11.jpg"
-          alt="car"
-          sizes="100vw"
-          layout="responsive"
-          width={100}
-          height={100}
-          style={{ borderRadius: "2rem" }}
-        />
       </div>
     </div>
   );
 }
 
-export default Card;
+export default CarCard;

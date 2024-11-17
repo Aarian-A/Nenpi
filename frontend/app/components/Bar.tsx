@@ -1,3 +1,4 @@
+// BarConfig.js
 import React from "react";
 import {
   Chart as ChartJS,
@@ -20,38 +21,38 @@ ChartJS.register(
   Legend
 );
 
-interface BarChartProps {
-  data: {
-    labels: string[];
-    datasets: {
-      label: string;
-      data: number[];
-      backgroundColor?: string;
-      borderColor?: string;
-      borderWidth?: number;
-    }[];
-  };
-}
-
-const BarConfig: React.FC<BarChartProps> = ({ data }) => {
-  const config = {
-    type: "bar", // Change type to 'bar'
-    data,
-    options: {
-      responsive: true,
-      plugins: {
-        legend: {
-          position: "top" as const, // Fixing the type by using 'as const'
-        },
-        title: {
-          display: true,
-          text: "Chart.js Bar Chart",
-        },
+const BarConfig = ({ data }) => {
+  const options = {
+  responsive: true,
+  plugins: {
+    legend: {
+      position: "top",
+    },
+    title: {
+      display: true,
+      text: "Fuel Economy (g/km CO2 Emissions)",
+    },
+  },
+  scales: {
+    x: {
+      title: {
+        display: true,
+        text: "Fuel Economy Type",
       },
     },
-  };
+    y: {
+      title: {
+        display: true,
+        text: "CO2 Emissions (g/km)",
+      },
+      beginAtZero: true,
+      min: 0, // Ensure it starts at zero
+      max: 100, // Adjust this to a value higher than the dataset's max to create taller bars
+    },
+  },
+};
 
-  return <Bar data={config.data} options={config.options} />;
+  return <Bar data={data} options={options} />;
 };
 
 export default BarConfig;

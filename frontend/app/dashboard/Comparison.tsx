@@ -1,78 +1,38 @@
 import React, { useState } from "react";
-import Card from "../components/Card";
 import styles from "../styles/Comparison.module.css";
-import CarCard from "../components/CarCard";
-import cardStyles from "../styles/card.module.css";
-import ScoreCard from "../components/ScoreCard";
 import ComparisonCard from "../components/ComparisonCard";
 import Button from "../components/Button";
 import Summary from "../components/Summary";
 
-// import ComparisonCard from "../components/ComparisonCard";
+interface CompDashboardProps {
+  chatResponse: string; // Define the type for the prop
+}
 
-function CompDashboard() {
-  // const [cards, setCards] = useState<number[]>([]);
-
-  // const addCard = () => {
-  //   if (cards.length < 4) {
-  //     setCards([...cards, cards.length + 1]);
-  //   }
-  // };
-
-  // const searchCar = (event: { target: { value: string } }) => {
-  //   console.log(event.target.value);
-  // };
-
+function CompDashboard({ chatResponse }: CompDashboardProps) {
   const [showComparison, setShowComparison] = useState(false);
+  const [search1, setSearch1] = useState("");
+  const [search2, setSearch2] = useState("");
+  const [carData1, setCarData1] = useState("");
+  const [carData2, setCarData2] = useState("");
 
-  const chartData = {
-    labels: ["City CO2", "Hwy CO2", "Comb CO2"],
-    datasets: [
-      {
-        label: "Dataset 1",
-        data: [65, 59, 80, 81, 56, 55, 40],
-        backgroundColor: "rgba(255, 99, 132, 0.5)",
-        borderColor: "rgba(255, 99, 132, 1)",
-        borderWidth: 1,
-      },
-      // {
-      //   label: "Dataset 2",
-      //   data: [28, 48, 40, 19, 86, 27, 90],
-      //   backgroundColor: "rgba(54, 162, 235, 0.5)",
-      //   borderColor: "rgba(54, 162, 235, 1)",
-      //   borderWidth: 1,
-      // },
-    ],
-  };
+  console.log("Chat Response in CompDashboard:", chatResponse); // Use the data
 
   return (
-    // <div className={styles.main}>
-    //   <input type="text" placeholder="Enter Car Name" onChange={searchCar} />
-    //   <button onClick={addCard}>Add Comparison Card</button>
-    //   <div className={styles.gridContainer}>
-    //     {/* {cards.map((card, index) => (
-    //     //   <ComparisonCard
-    //     //     key={index}
-    //     //     />
-    //     ))} */}
-    //   </div>
-    // </div>
-
     <div className={styles.main}>
       <h1 className={styles.title}>Compare cars</h1>
       {showComparison ? (
-        <Summary />
+        <Summary carData1={carData1.toString()} carData2={carData2.toString()}/>
       ) : (
         <>
           <p className={styles.subheading}>
             Choose two cars to compare side-by-side
           </p>
           <div className={styles.carCardWrapper}>
-            <ComparisonCard carNumber={"first"} />
-            <ComparisonCard carNumber={"second"} />
+            <ComparisonCard carNumber={"first"} state={search1} stateChanger={setSearch1} />
+            <ComparisonCard carNumber={"second"} state={search2} stateChanger={setSearch2}/>
           </div>
           <div style={{ display: "flex", justifyContent: "flex-end" }}>
-            <Button stateChanger={setShowComparison} />
+            <Button stateChanger={setShowComparison} stateDataChanger1={setCarData1} stateDataChanger2={setCarData2} search1={search1} search2={search2} />
           </div>
         </>
       )}
