@@ -1,0 +1,364 @@
+Model,Displ,Cyl,Trans,Drive,Fuel,Cert Region,Stnd,Stnd Description,Underhood ID,Veh Class,Air Pollution Score,City MPG,Hwy MPG,Cmb MPG,Greenhouse Gas Score,SmartWay,Eco Score,Predicted Eco Score
+AUDI A7,2.0,4.0,AMS-7,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVGAJ02.0A3P,midsize car,7,26/64,34/74,29,10,Yes,41.42857142857143,41.400000000000034
+AUDI A7,2.0,4.0,AMS-7,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVGAJ02.0A3P,midsize car,7,26/64,34/74,29,10,Yes,41.42857142857143,41.400000000000034
+AUDI Q5,2.0,4.0,AMS-7,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVGAJ02.0A3P,small SUV,7,25/43,29/64,27,10,Yes,38.57142857142857,38.45714285714284
+AUDI Q5,2.0,4.0,AMS-7,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVGAJ02.0A3P,small SUV,7,25/43,29/64,27,10,Yes,38.57142857142857,38.45714285714284
+AUDI e-tron,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0AZE,standard SUV,10,78,77,78,10,Elite,78.0,78.0
+AUDI e-tron,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0AZE,standard SUV,10,78,77,78,10,Elite,78.0,78.0
+AUDI e-tron Sportback,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0AZE,standard SUV,10,76,78,77,10,Elite,77.0,77.0
+AUDI e-tron Sportback,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0AZE,standard SUV,10,76,78,77,10,Elite,77.0,77.0
+BMW 330e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXJ02.0H30,small car,7,25/72,33/80,28,10,Yes,40.0,39.98571428571429
+BMW 330e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXJ02.0H30,small car,7,25/72,33/80,28,10,Yes,40.0,39.98571428571429
+BMW 330e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXJ02.0H30,small car,7,22/64,30/71,25,9,Yes,32.142857142857146,32.1428571428572
+BMW 330e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXJ02.0H30,small car,7,22/64,30/71,25,9,Yes,32.142857142857146,32.1428571428572
+BMW 530e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXJ02.0H30,small car,7,24/59,29/72,26,9,Yes,33.42857142857143,33.42857142857145
+BMW 530e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXJ02.0H30,small car,7,24/59,29/72,26,9,Yes,33.42857142857143,33.42857142857145
+BMW 530e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXJ02.0H30,small car,7,22/59,28/67,25,9,Yes,32.142857142857146,32.1428571428572
+BMW 530e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXJ02.0H30,small car,7,22/59,28/67,25,9,Yes,32.142857142857146,32.1428571428572
+BMW X3 xDrive30e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXJ02.0H30,small SUV,7,21/59,27/61,24,9,Yes,30.857142857142858,30.857142857142808
+BMW X3 xDrive30e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXJ02.0H30,small SUV,7,21/59,27/61,24,9,Yes,30.857142857142858,30.857142857142808
+BMW X5 xDrive45e,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXJ03.0H05,standard SUV,7,19/47,22/54,20,9,Yes,25.714285714285715,25.50428571428574
+BMW X5 xDrive45e,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXJ03.0H05,standard SUV,7,19/47,22/54,20,9,Yes,25.714285714285715,25.50428571428574
+BMW i3,0.6,2.0,Auto-1,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXV00.6I3R,small car,7,30/107,31/93,31,10,Yes,44.285714285714285,44.28571428571428
+BMW i3,0.6,2.0,Auto-1,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXV00.6I3R,small car,7,30/107,31/93,31,10,Yes,44.285714285714285,44.28571428571428
+BMW i3,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MBMXV00.0I3B,small car,10,124,102,113,10,Elite,113.0,113.0
+BMW i3,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MBMXV00.0I3B,small car,10,124,102,113,10,Elite,113.0,113.0
+BMW i3s,0.6,2.0,Auto-1,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MBMXV00.6I3R,small car,7,30/107,31/93,31,10,Yes,44.285714285714285,44.28571428571428
+BMW i3s,0.6,2.0,Auto-1,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MBMXV00.6I3R,small car,7,30/107,31/93,31,10,Yes,44.285714285714285,44.28571428571428
+BMW i3s,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MBMXV00.0I3B,small car,10,124,102,113,10,Elite,113.0,113.0
+BMW i3s,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MBMXV00.0I3B,small car,10,124,102,113,10,Elite,113.0,113.0
+BUICK Encore GX,1.3,3.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MGMXV01.3545,small SUV,7,30,32,31,7,Yes,31.0,31.0
+BUICK Encore GX,1.3,3.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MGMXV01.3545,small SUV,7,30,32,31,7,Yes,31.0,31.0
+CHEVROLET Bolt EV,,,CVT,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MGMXV00.0002,station wagon,10,127,108,118,10,Elite,118.0,118.0
+CHEVROLET Bolt EV,,,CVT,2WD,Electricity,CA,ZEV,California ZEV,MGMXV00.0002,station wagon,10,127,108,118,10,Elite,118.0,118.0
+CHEVROLET Malibu,1.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MGMXV01.5010,midsize car,7,29,36,32,7,Yes,32.0,32.0
+CHEVROLET Malibu,1.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MGMXV01.5010,midsize car,7,29,36,32,7,Yes,32.0,32.0
+CHEVROLET Trailblazer,1.3,3.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MGMXV01.3545,small SUV,7,29,33,31,7,Yes,31.0,31.0
+CHEVROLET Trailblazer,1.3,3.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MGMXV01.3545,small SUV,7,29,33,31,7,Yes,31.0,31.0
+CHRYSLER Pacifica Hybrid,3.6,6.0,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MCRXT03.65P6,minivan,7,29/87,30/76,30,10,Yes,42.857142857142854,42.85714285714278
+CHRYSLER Pacifica Hybrid,3.6,6.0,CVT,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MCRXT03.65P6,minivan,7,29/87,30/76,30,10,Yes,42.857142857142854,42.85714285714278
+FORD Escape HEV,2.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MFMXT02.52F1,small SUV,7,44,37,41,8,Yes,46.857142857142854,46.84571428571425
+FORD Escape HEV,2.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MFMXT02.52F1,small SUV,7,44,37,41,8,Yes,46.857142857142854,46.84571428571425
+FORD Escape HEV,2.5,4.0,CVT,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MFMXT02.52F1,small SUV,7,43,37,40,8,Yes,45.714285714285715,45.71428571428571
+FORD Escape HEV,2.5,4.0,CVT,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MFMXT02.52F1,small SUV,7,43,37,40,8,Yes,45.714285714285715,45.71428571428571
+FORD Escape PHEV,2.5,4.0,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MFMXT02.52P1,small SUV,7,43/117,38/93,40,10,Yes,57.142857142857146,57.1142857142857
+FORD Escape PHEV,2.5,4.0,CVT,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MFMXT02.52P1,small SUV,7,43/117,38/93,40,10,Yes,57.142857142857146,57.1142857142857
+FORD Mustang Mach-E,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0B3R,station wagon,10,105,93,100,10,Elite,100.0,100.0
+FORD Mustang Mach-E,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0B3R,station wagon,10,105,93,100,10,Elite,100.0,100.0
+FORD Mustang Mach-E,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0B3A,station wagon,10,100,86,93,10,Elite,93.0,93.0
+FORD Mustang Mach-E,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0B3A,station wagon,10,100,86,93,10,Elite,93.0,93.0
+FORD Mustang Mach-E Cal Route 1,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0B4R,station wagon,10,108,94,101,10,Elite,101.0,101.0
+FORD Mustang Mach-E Cal Route 1,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0B4R,station wagon,10,108,94,101,10,Elite,101.0,101.0
+FORD Mustang Mach-E Extended,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0B4R,station wagon,10,104,90,97,10,Elite,97.0,97.0
+FORD Mustang Mach-E Extended,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0B4R,station wagon,10,104,90,97,10,Elite,97.0,97.0
+FORD Mustang Mach-E Extended,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0B4A,station wagon,10,96,84,90,10,Elite,90.0,90.0
+FORD Mustang Mach-E Extended,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0B4A,station wagon,10,96,84,90,10,Elite,90.0,90.0
+FORD Mustang Mach-E GT,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0G4A,station wagon,10,90,77,84,10,Elite,84.0,84.0
+FORD Mustang Mach-E GT,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0G4A,station wagon,10,90,77,84,10,Elite,84.0,84.0
+FORD Mustang Mach-E GT Performance,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MFMXV00.0G4A,station wagon,10,88,75,82,10,Elite,82.0,82.0
+FORD Mustang Mach-E GT Performance,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MFMXV00.0G4A,station wagon,10,88,75,82,10,Elite,82.0,82.0
+HONDA Accord,1.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.53EB,large car,7,30,38,33,7,Yes,33.0,33.0
+HONDA Accord,1.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.53EB,large car,7,30,38,33,7,Yes,33.0,33.0
+HONDA Accord,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV02.0BEB,large car,7,48,48,48,9,Yes,61.714285714285715,61.701428571428465
+HONDA Accord,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV02.0BEB,large car,7,48,48,48,9,Yes,61.714285714285715,61.701428571428465
+HONDA Accord Sport/Touring,1.5,4.0,SCV-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.53EB,large car,7,29,35,32,7,Yes,32.0,32.0
+HONDA Accord Sport/Touring,1.5,4.0,SCV-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.53EB,large car,7,29,35,32,7,Yes,32.0,32.0
+HONDA Accord Sport/Touring,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV02.0BEB,large car,7,44,41,43,9,Yes,55.285714285714285,55.24285714285721
+HONDA Accord Sport/Touring,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV02.0BEB,large car,7,44,41,43,9,Yes,55.285714285714285,55.24285714285721
+HONDA CR-V,2.0,4.0,CVT,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXT02.0WMC,small SUV,7,40,35,38,8,Yes,43.42857142857143,43.37714285714289
+HONDA CR-V,2.0,4.0,CVT,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXT02.0WMC,small SUV,7,40,35,38,8,Yes,43.42857142857143,43.37714285714289
+HONDA Civic 4Dr,1.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.52L2,midsize car,7,32,42,36,8,Yes,41.142857142857146,41.1542857142858
+HONDA Civic 4Dr,1.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.52L2,midsize car,7,32,42,36,8,Yes,41.142857142857146,41.1542857142858
+HONDA Civic 4Dr,1.5,4.0,SCV-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.52L2,midsize car,7,30,38,33,7,Yes,33.0,33.0
+HONDA Civic 4Dr,1.5,4.0,SCV-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.52L2,midsize car,7,30,38,33,7,Yes,33.0,33.0
+HONDA Civic 4Dr,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV02.0CL3,midsize car,7,30,38,33,7,Yes,33.0,33.0
+HONDA Civic 4Dr,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV02.0CL3,midsize car,7,30,38,33,7,Yes,33.0,33.0
+HONDA Civic 4Dr,2.0,4.0,SCV-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV02.0CL3,midsize car,7,29,37,32,7,Yes,32.0,32.0
+HONDA Civic 4Dr,2.0,4.0,SCV-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV02.0CL3,midsize car,7,29,37,32,7,Yes,32.0,32.0
+HONDA Civic 5Dr,1.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.52L2,large car,7,31,40,34,7,Yes,34.0,34.0
+HONDA Civic 5Dr,1.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.52L2,large car,7,31,40,34,7,Yes,34.0,34.0
+HONDA Civic 5Dr,1.5,4.0,SCV-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.52L2,large car,7,29,35,32,7,Yes,32.0,32.0
+HONDA Civic 5Dr,1.5,4.0,SCV-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.52L2,large car,7,29,35,32,7,Yes,32.0,32.0
+HONDA Clarity,1.5,4.0,CVT,2WD,Gasoline/Electricity,CA,L3SULEV20,California LEV-III SULEV20,MHNXV01.5DFB,midsize car,8,44/117,40/102,42,10,Elite,52.5,52.04
+HONDA Clarity,1.5,4.0,CVT,2WD,Gasoline/Electricity,FA,T3B20,Federal Tier 3 Bin 20,MHNXV01.5DFB,midsize car,8,44/117,40/102,42,10,Elite,52.5,52.04
+HONDA Clarity,,,Auto-1,2WD,Hydrogen,FA,T3B0,Federal Tier 3 Bin 0,MHNXV00.0AAH,midsize car,10,68,67,68,10,Elite,68.0,68.0
+HONDA Clarity,,,Auto-1,2WD,Hydrogen,CA,ZEV,California ZEV,MHNXV00.0AAH,midsize car,10,68,67,68,10,Elite,68.0,68.0
+HONDA Insight,1.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.5CEB,midsize car,7,55,49,52,9,Yes,66.85714285714286,66.8571428571429
+HONDA Insight,1.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.5CEB,midsize car,7,55,49,52,9,Yes,66.85714285714286,66.8571428571429
+HONDA Insight Touring,1.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHNXV01.5CEB,small car,7,51,45,48,9,Yes,61.714285714285715,61.701428571428465
+HONDA Insight Touring,1.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHNXV01.5CEB,small car,7,51,45,48,9,Yes,61.714285714285715,61.701428571428465
+HYUNDAI Elantra,2.0,4.0,SCV-1,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV02.0CE3,midsize car,7,31,41,35,7,Yes,35.0,35.0
+HYUNDAI Elantra,2.0,4.0,SCV-1,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV02.0CE3,midsize car,7,33,43,37,8,Yes,42.285714285714285,42.285714285714256
+HYUNDAI Elantra,2.0,4.0,SCV-1,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV02.0CE3,midsize car,7,31,41,35,7,Yes,35.0,35.0
+HYUNDAI Elantra,2.0,4.0,SCV-1,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV02.0CE3,midsize car,7,33,43,37,8,Yes,42.285714285714285,42.285714285714256
+HYUNDAI Elantra Hybrid,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV01.6C13,midsize car,7,49,52,50,9,Yes,64.28571428571429,64.2857142857144
+HYUNDAI Elantra Hybrid,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV01.6C13,midsize car,7,49,52,50,9,Yes,64.28571428571429,64.2857142857144
+HYUNDAI Elantra Hybrid Blue,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV01.6C13,midsize car,7,53,56,54,10,Yes,77.14285714285714,77.17142857142849
+HYUNDAI Elantra Hybrid Blue,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV01.6C13,midsize car,7,53,56,54,10,Yes,77.14285714285714,77.17142857142849
+HYUNDAI Ioniq,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV01.6P13,large car,7,54,56,55,10,Yes,78.57142857142857,77.9857142857142
+HYUNDAI Ioniq,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV01.6P13,large car,7,54,56,55,10,Yes,78.57142857142857,77.9857142857142
+HYUNDAI Ioniq Blue,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV01.6P13,large car,7,58,60,59,10,Yes,84.28571428571429,84.057142857143
+HYUNDAI Ioniq Blue,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV01.6P13,large car,7,58,60,59,10,Yes,84.28571428571429,84.057142857143
+HYUNDAI Ioniq Electric,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MHYXV00.0P31,midsize car,10,145,121,133,10,Elite,133.0,132.98
+HYUNDAI Ioniq Electric,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MHYXV00.0P31,midsize car,10,145,121,133,10,Elite,133.0,132.98
+HYUNDAI Ioniq Plug-in Hybrid,1.6,4.0,AMS-6,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MHYXV01.6P2T,midsize car,7,52/123,51/115,52,10,Yes,74.28571428571429,74.28571428571443
+HYUNDAI Ioniq Plug-in Hybrid,1.6,4.0,AMS-6,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MHYXV01.6P2T,midsize car,7,52/123,51/115,52,10,Yes,74.28571428571429,74.28571428571443
+HYUNDAI Kona Electric,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MHYXV00.0K31,small SUV,10,132,108,120,10,Elite,120.0,120.0
+HYUNDAI Kona Electric,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MHYXV00.0K31,small SUV,10,132,108,120,10,Elite,120.0,120.0
+HYUNDAI NEXO,,,Auto-1,2WD,Hydrogen,FA,T3B0,Federal Tier 3 Bin 0,MHYXV00.0R41,small SUV,10,59,54,57,10,Elite,57.0,57.27
+HYUNDAI NEXO,,,Auto-1,2WD,Hydrogen,CA,ZEV,California ZEV,MHYXV00.0R41,small SUV,10,59,54,57,10,Elite,57.0,57.27
+HYUNDAI NEXO Blue,,,Auto-1,2WD,Hydrogen,FA,T3B0,Federal Tier 3 Bin 0,MHYXV00.0R41,small SUV,10,65,58,61,10,Elite,61.0,61.0
+HYUNDAI NEXO Blue,,,Auto-1,2WD,Hydrogen,CA,ZEV,California ZEV,MHYXV00.0R41,small SUV,10,65,58,61,10,Elite,61.0,61.0
+HYUNDAI Santa Fe Hybrid,1.6,4.0,AMS-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXT01.6M13,small SUV,7,33,30,32,7,Yes,32.0,32.0
+HYUNDAI Santa Fe Hybrid,1.6,4.0,AMS-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXT01.6M13,small SUV,7,33,30,32,7,Yes,32.0,32.0
+HYUNDAI Santa Fe Hybrid Blue,1.6,4.0,AMS-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXT01.6M13,small SUV,7,36,31,34,7,Yes,34.0,34.0
+HYUNDAI Santa Fe Hybrid Blue,1.6,4.0,AMS-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXT01.6M13,small SUV,7,36,31,34,7,Yes,34.0,34.0
+HYUNDAI Sonata,2.5,4.0,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV02.5ER3,large car,7,27,37,31,7,Yes,31.0,31.0
+HYUNDAI Sonata,2.5,4.0,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV02.5ER3,large car,7,28,38,32,7,Yes,32.0,32.0
+HYUNDAI Sonata,2.5,4.0,SemiAuto-8,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV02.5ER3,large car,7,27,37,31,7,Yes,31.0,31.0
+HYUNDAI Sonata,2.5,4.0,SemiAuto-8,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV02.5ER3,large car,7,28,38,32,7,Yes,32.0,32.0
+HYUNDAI Sonata Hybrid,2.0,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV02.0E13,large car,7,45,51,47,9,Yes,60.42857142857143,60.41571428571436
+HYUNDAI Sonata Hybrid,2.0,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV02.0E13,large car,7,45,51,47,9,Yes,60.42857142857143,60.41571428571436
+HYUNDAI Sonata Hybrid Blue,2.0,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MHYXV02.0E13,large car,7,50,54,52,9,Yes,66.85714285714286,66.8571428571429
+HYUNDAI Sonata Hybrid Blue,2.0,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MHYXV02.0E13,large car,7,50,54,52,9,Yes,66.85714285714286,66.8571428571429
+JAGUAR I-PACE EV400,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MJLXT00.0TZA,small SUV,10,80,72,76,10,Elite,76.0,76.0
+JAGUAR I-PACE EV400,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MJLXT00.0TZA,small SUV,10,80,72,76,10,Elite,76.0,76.0
+KANDI K23 (254Ah),,,Auto-1,2WD,Electricity,CA,T3B0,Federal Tier 3 Bin 0,MSCAV0.00MDP,large car,10,99,92,96,10,Elite,96.0,96.0
+KANDI K23 (254Ah),,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MSCAV0.00MDP,large car,10,99,92,96,10,Elite,96.0,96.0
+KANDI K23 (254Ah),,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MSCAV0.00MDP,large car,10,99,92,96,10,Elite,96.0,96.0
+KARMA GS-6 (21-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MKALV01.5K12,small car,7,27/71,25/69,26,10,Yes,37.142857142857146,37.14285714285722
+KARMA GS-6 (21-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MKALV01.5K12,small car,7,27/71,25/69,26,10,Yes,37.142857142857146,37.14285714285722
+KARMA GS-6 (22-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MKALV01.5K12,small car,7,22/63,21/61,22,10,Yes,31.428571428571427,31.428571428571445
+KARMA GS-6 (22-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MKALV01.5K12,small car,7,22/63,21/61,22,10,Yes,31.428571428571427,31.428571428571445
+KARMA Revero GT (21-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MKALV01.5K12,small car,7,27/71,25/69,26,10,Yes,37.142857142857146,37.14285714285722
+KARMA Revero GT (21-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MKALV01.5K12,small car,7,27/71,25/69,26,10,Yes,37.142857142857146,37.14285714285722
+KARMA Revero GT (22-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MKALV01.5K12,small car,7,22/63,21/61,22,10,Yes,31.428571428571427,31.428571428571445
+KARMA Revero GT (22-inch wheels),1.5,3.0,Auto-1,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MKALV01.5K12,small car,7,22/63,21/61,22,10,Yes,31.428571428571427,31.428571428571445
+KIA Forte,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MKMXV02.0CE3,midsize car,7,29,40,33,7,Yes,33.0,33.0
+KIA Forte,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MKMXV02.0CE3,midsize car,7,29,40,33,7,Yes,33.0,33.0
+KIA Niro,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MKMXV01.6L13,station wagon,7,51,46,49,9,Yes,63.0,63.0
+KIA Niro,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MKMXV01.6L13,station wagon,7,51,46,49,9,Yes,63.0,63.0
+KIA Niro Electric,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MKMXV00.0L31,station wagon,10,123,102,112,10,Elite,112.0,112.0
+KIA Niro Electric,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MKMXV00.0L31,station wagon,10,123,102,112,10,Elite,112.0,112.0
+KIA Niro FE,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MKMXV01.6L13,station wagon,7,53,48,50,9,Yes,64.28571428571429,64.2857142857144
+KIA Niro FE,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MKMXV01.6L13,station wagon,7,53,48,50,9,Yes,64.28571428571429,64.2857142857144
+KIA Niro Plug-in Hybrid,1.6,4.0,AMS-6,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MKMXV01.6L2T,station wagon,7,48/110,44/99,46,10,Yes,65.71428571428571,65.62428571428559
+KIA Niro Plug-in Hybrid,1.6,4.0,AMS-6,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MKMXV01.6L2T,station wagon,7,48/110,44/99,46,10,Yes,65.71428571428571,65.62428571428559
+KIA Niro Touring,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MKMXV01.6L13,station wagon,7,46,40,43,9,Yes,55.285714285714285,55.24285714285721
+KIA Niro Touring,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MKMXV01.6L13,station wagon,7,46,40,43,9,Yes,55.285714285714285,55.24285714285721
+KIA Sorento Hybrid,1.6,4.0,AMS-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MKMXV01.6J13,small SUV,7,39,35,37,8,Yes,42.285714285714285,42.285714285714256
+KIA Sorento Hybrid,1.6,4.0,AMS-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MKMXV01.6J13,small SUV,7,39,35,37,8,Yes,42.285714285714285,42.285714285714256
+KIA Soul Eco dynamics,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MKMXV02.0BE3,station wagon,7,29,35,31,7,Yes,31.0,31.0
+KIA Soul Eco dynamics,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MKMXV02.0BE3,station wagon,7,29,35,31,7,Yes,31.0,31.0
+KIA Soul Electric,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MKMXV00.0B31,station wagon,10,127,101,114,10,Elite,114.0,114.0
+KIA Soul Electric,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MKMXV00.0B31,station wagon,10,127,101,114,10,Elite,114.0,114.0
+LAND ROVER Range Rover PHEV,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MJLXT02.0PTW,standard SUV,7,18/42,21/42,19,7,Yes,19.0,18.95
+LAND ROVER Range Rover PHEV,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MJLXT02.0PTW,standard SUV,7,18/42,21/42,19,7,Yes,19.0,18.95
+LAND ROVER Range Rover Sport PHEV,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MJLXT02.0PTW,standard SUV,7,18/42,21/42,19,7,Yes,19.0,18.95
+LAND ROVER Range Rover Sport PHEV,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MJLXT02.0PTW,standard SUV,7,18/42,21/42,19,7,Yes,19.0,18.95
+LEXUS ES 300h,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P33,midsize car,7,43,44,44,9,Yes,56.57142857142857,56.571428571428505
+LEXUS ES 300h,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P33,midsize car,7,43,44,44,9,Yes,56.57142857142857,56.571428571428505
+LEXUS NX 300h,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P3M,small SUV,7,33,30,31,7,Yes,31.0,31.0
+LEXUS NX 300h,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P3M,small SUV,7,33,30,31,7,Yes,31.0,31.0
+LEXUS UX 200,2.0,4.0,SCV-10,2WD,Gasoline,CA,L3ULEV50,California LEV-III ULEV50,MTYXV02.0N4A,midsize car,6,29,37,32,7,Yes,37.333333333333336,37.333333333333385
+LEXUS UX 200,2.0,4.0,SCV-10,2WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MTYXV02.0N4A,midsize car,6,29,37,32,7,Yes,37.333333333333336,37.333333333333385
+LEXUS UX 250h,2.0,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3B,small car,7,43,41,42,8,Yes,48.0,48.0
+LEXUS UX 250h,2.0,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3B,small car,7,43,41,42,8,Yes,48.0,48.0
+LEXUS UX 250h,2.0,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3B,small car,7,41,38,39,8,Yes,44.57142857142857,44.57142857142853
+LEXUS UX 250h,2.0,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3B,small car,7,41,38,39,8,Yes,44.57142857142857,44.57142857142853
+LINCOLN Aviator PHEV,3.0,6.0,SemiAuto-10,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MFMXT03.03P1,standard SUV,7,22/54,25/58,23,9,Yes,29.571428571428573,29.571428571428566
+LINCOLN Aviator PHEV,3.0,6.0,SemiAuto-10,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MFMXT03.03P1,standard SUV,7,22/54,25/58,23,9,Yes,29.571428571428573,29.571428571428566
+LINCOLN Corsair PHEV,2.5,4.0,CVT,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MFMXT02.53CE,small SUV,7,34/83,32/72,33,10,Yes,47.142857142857146,47.14285714285718
+LINCOLN Corsair PHEV,2.5,4.0,CVT,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MFMXT02.53CE,small SUV,7,34/83,32/72,33,10,Yes,47.142857142857146,47.14285714285718
+MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTKXV02.0CDB,small car,7,28,36,31,7,Yes,31.0,31.0
+MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTKXV02.0CDB,small car,7,28,36,31,7,Yes,31.0,31.0
+MAZDA CX-3,2.0,4.0,SemiAuto-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTKXV02.5CDA,small car,7,29,34,31,7,Yes,31.0,31.0
+MAZDA CX-3,2.0,4.0,SemiAuto-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTKXV02.5CDA,small car,7,29,34,31,7,Yes,31.0,31.0
+MINI Cooper Convertible,1.5,3.0,AMS-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MBMXV01.5B36,small car,7,28,37,31,7,Yes,31.0,31.0
+MINI Cooper Convertible,1.5,3.0,AMS-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MBMXV01.5B36,small car,7,28,37,31,7,Yes,31.0,31.0
+MINI Cooper Hardtop,1.5,3.0,AMS-7,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MBMXV01.5B36,small car,7,28,37,31,7,Yes,31.0,31.0
+MINI Cooper Hardtop,1.5,3.0,AMS-7,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MBMXV01.5B36,small car,7,28,37,31,7,Yes,31.0,31.0
+MINI Cooper SE Hardtop,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MBMXV00.0F5B,small car,10,115,100,108,10,Elite,108.0,107.98
+MINI Cooper SE Hardtop,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MBMXV00.0F5B,small car,10,115,100,108,10,Elite,108.0,107.98
+MITSUBISHI Outlander PHEV,2.4,4.0,Auto-1,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MMTXT02.4H3M,small SUV,7,26/76,26/71,26,10,Yes,37.142857142857146,37.14285714285722
+MITSUBISHI Outlander PHEV,2.4,4.0,Auto-1,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MMTXT02.4H3M,small SUV,7,26/76,26/71,26,10,Yes,37.142857142857146,37.14285714285722
+NISSAN Altima,2.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.5RPB,midsize car,7,28,39,32,7,Yes,32.0,32.0
+NISSAN Altima,2.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.5RPB,midsize car,7,28,39,32,7,Yes,32.0,32.0
+NISSAN Altima SR,2.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.5RPB,midsize car,7,27,37,31,7,Yes,31.0,31.0
+NISSAN Altima SR,2.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.5RPB,midsize car,7,27,37,31,7,Yes,31.0,31.0
+NISSAN Altima SV/SL,2.5,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.5RPB,midsize car,7,27,37,31,7,Yes,31.0,31.0
+NISSAN Altima SV/SL,2.5,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.5RPB,midsize car,7,27,37,31,7,Yes,31.0,31.0
+NISSAN Kicks,1.6,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV01.6RNA,midsize car,7,31,36,33,7,Yes,33.0,33.0
+NISSAN Kicks,1.6,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV01.6RNA,midsize car,7,31,36,33,7,Yes,33.0,33.0
+NISSAN Leaf,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MNSXV0000TL2,midsize car,10,123,99,111,10,Elite,111.0,111.0
+NISSAN Leaf,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MNSXV0000TL2,midsize car,10,123,99,111,10,Elite,111.0,111.0
+NISSAN Leaf,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MNSXV0000TS3,midsize car,10,118,97,108,10,Elite,108.0,107.98
+NISSAN Leaf,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MNSXV0000TS3,midsize car,10,118,97,108,10,Elite,108.0,107.98
+NISSAN Leaf SV/SL,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MNSXV0000TS3,midsize car,10,114,94,104,10,Elite,104.0,104.0
+NISSAN Leaf SV/SL,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MNSXV0000TS3,midsize car,10,114,94,104,10,Elite,104.0,104.0
+NISSAN Rogue,1.5,3.0,SCV-8,2WD,Gasoline,CA,L3ULEV50,California LEV-III ULEV50,MNSXT01.5A3A,small SUV,6,30,37,33,7,Yes,38.5,38.5
+NISSAN Rogue,1.5,3.0,SCV-8,2WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MNSXT01.5A3A,small SUV,6,30,37,33,7,Yes,38.5,38.5
+NISSAN Rogue,1.5,3.0,SCV-8,4WD,Gasoline,CA,L3ULEV50,California LEV-III ULEV50,MNSXT01.5A3A,small SUV,6,30,36,33,7,Yes,38.5,38.5
+NISSAN Rogue,1.5,3.0,SCV-8,4WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MNSXT01.5A3A,small SUV,6,30,36,33,7,Yes,38.5,38.5
+NISSAN Rogue SL/Platinum,1.5,3.0,SCV-8,2WD,Gasoline,CA,L3ULEV50,California LEV-III ULEV50,MNSXT01.5A3A,small SUV,6,30,36,32,7,Yes,37.333333333333336,37.333333333333385
+NISSAN Rogue SL/Platinum,1.5,3.0,SCV-8,2WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MNSXT01.5A3A,small SUV,6,30,36,32,7,Yes,37.333333333333336,37.333333333333385
+NISSAN Rogue SL/Platinum,1.5,3.0,SCV-8,4WD,Gasoline,CA,L3ULEV50,California LEV-III ULEV50,MNSXT01.5A3A,small SUV,6,29,35,32,7,Yes,37.333333333333336,37.333333333333385
+NISSAN Rogue SL/Platinum,1.5,3.0,SCV-8,4WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MNSXT01.5A3A,small SUV,6,29,35,32,7,Yes,37.333333333333336,37.333333333333385
+NISSAN Sentra,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.0RMA,midsize car,7,29,39,33,7,Yes,33.0,33.0
+NISSAN Sentra,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.0RMA,midsize car,7,29,39,33,7,Yes,33.0,33.0
+NISSAN Sentra,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.0RMB,midsize car,7,29,39,33,7,Yes,33.0,33.0
+NISSAN Sentra,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.0RMB,midsize car,7,29,39,33,7,Yes,33.0,33.0
+NISSAN Sentra SR,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.0RMA,midsize car,7,28,37,32,7,Yes,32.0,32.0
+NISSAN Sentra SR,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.0RMA,midsize car,7,28,37,32,7,Yes,32.0,32.0
+NISSAN Sentra SR,2.0,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV02.0RMB,midsize car,7,28,37,32,7,Yes,32.0,32.0
+NISSAN Sentra SR,2.0,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV02.0RMB,midsize car,7,28,37,32,7,Yes,32.0,32.0
+NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MNSXV01.6RNA,small car,7,32,40,35,7,Yes,35.0,35.0
+NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MNSXV01.6RNA,small car,7,32,40,35,7,Yes,35.0,35.0
+POLESTAR 2,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVVXV00.0Z0A,midsize car,10,96,88,92,10,Elite,92.0,92.0
+POLESTAR 2,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MVVXV00.0Z0A,midsize car,10,96,88,92,10,Elite,92.0,92.0
+PORSCHE Taycan 4 Cross Turismo,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,midsize car,10,76,77,76,10,Elite,76.0,76.0
+PORSCHE Taycan 4 Cross Turismo,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,midsize car,10,76,77,76,10,Elite,76.0,76.0
+PORSCHE Taycan 4S Cross Turismo,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,midsize car,10,75,75,75,10,Elite,75.0,75.0
+PORSCHE Taycan 4S Cross Turismo,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,midsize car,10,75,75,75,10,Elite,75.0,75.0
+PORSCHE Taycan 4S Perf Battery,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,large car,10,79,80,79,10,Elite,79.0,79.0
+PORSCHE Taycan 4S Perf Battery,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,large car,10,79,80,79,10,Elite,79.0,79.0
+PORSCHE Taycan 4S Perf Battery Plus,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,large car,10,75,81,77,10,Elite,77.0,77.0
+PORSCHE Taycan 4S Perf Battery Plus,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,large car,10,75,81,77,10,Elite,77.0,77.0
+PORSCHE Taycan Perf Battery,,,Auto-2,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,small car,10,76,84,79,10,Elite,79.0,79.0
+PORSCHE Taycan Perf Battery,,,Auto-2,2WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,small car,10,76,84,79,10,Elite,79.0,79.0
+PORSCHE Taycan Perf Battery Plus,,,Auto-2,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,small car,10,71,80,75,10,Elite,75.0,75.0
+PORSCHE Taycan Perf Battery Plus,,,Auto-2,2WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,small car,10,71,80,75,10,Elite,75.0,75.0
+PORSCHE Taycan Turbo,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,large car,10,71,75,73,10,Elite,73.0,73.0
+PORSCHE Taycan Turbo,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,large car,10,71,75,73,10,Elite,73.0,73.0
+PORSCHE Taycan Turbo Cross Turismo,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,midsize car,10,72,72,72,10,Elite,72.0,72.0
+PORSCHE Taycan Turbo Cross Turismo,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,midsize car,10,72,72,72,10,Elite,72.0,72.0
+PORSCHE Taycan Turbo S,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,large car,10,69,71,70,10,Elite,70.0,70.0
+PORSCHE Taycan Turbo S,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,large car,10,69,71,70,10,Elite,70.0,70.0
+PORSCHE Taycan Turbo S Cross Turismo,,,Auto-2,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MPRXV00.0EVT,midsize car,10,74,73,73,10,Elite,73.0,73.0
+PORSCHE Taycan Turbo S Cross Turismo,,,Auto-2,4WD,Electricity,CA,ZEV,California ZEV,MPRXV00.0EVT,midsize car,10,74,73,73,10,Elite,73.0,73.0
+SUBARU Crosstrek Hybrid,2.0,4.0,CVT,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MFJXT02.0EVC,small SUV,7,36/99,35/80,35,10,Yes,50.0,50.0
+SUBARU Crosstrek Hybrid,2.0,4.0,CVT,4WD,Gasoline/Electricity,FA,T3B50,Federal Tier 3 Bin 50,MFJXT02.0EVC,small SUV,6,36/99,35/80,35,10,Yes,58.333333333333336,56.266666666666644
+SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MFJXJ02.5BUY,midsize car,7,28,36,32,7,Yes,32.0,32.0
+SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MFJXJ02.5BUY,station wagon,7,28,36,31,7,Yes,31.0,31.0
+SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MFJXJ02.5BUY,midsize car,6,28,36,32,7,Yes,37.333333333333336,37.333333333333385
+SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,FA,T3B50,Federal Tier 3 Bin 50,MFJXJ02.5BUY,station wagon,6,28,36,31,7,Yes,36.166666666666664,36.504999999999974
+TESLA Model 3 Long Range,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L23,midsize car,10,141,127,134,10,Elite,134.0,133.9
+TESLA Model 3 Long Range,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L23,midsize car,10,141,127,134,10,Elite,134.0,133.9
+TESLA Model 3 Performance,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L23,midsize car,10,118,107,113,10,Elite,113.0,113.0
+TESLA Model 3 Performance,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L23,midsize car,10,118,107,113,10,Elite,113.0,113.0
+TESLA Model 3 Standard Range Plus,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L13,midsize car,10,149,132,141,10,Elite,141.0,140.63
+TESLA Model 3 Standard Range Plus,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L13,midsize car,10,149,132,141,10,Elite,141.0,140.63
+TESLA Model S Long Range,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2S,large car,10,124,115,120,10,Elite,120.0,120.0
+TESLA Model S Long Range,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2S,large car,10,124,115,120,10,Elite,120.0,120.0
+TESLA Model S Long Range Plus,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2S,large car,10,116,109,113,10,Elite,113.0,113.0
+TESLA Model S Long Range Plus,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2S,large car,10,116,109,113,10,Elite,113.0,113.0
+"TESLA Model S Performance (19"")",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2S,large car,10,114,106,110,10,Elite,110.0,110.0
+"TESLA Model S Performance (19"")",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2S,large car,10,114,106,110,10,Elite,110.0,110.0
+"TESLA Model S Performance (21"")",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2S,large car,10,98,93,96,10,Elite,96.0,96.0
+"TESLA Model S Performance (21"")",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2S,large car,10,98,93,96,10,Elite,96.0,96.0
+"TESLA Model S Plaid (19"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L3S,large car,10,119,112,116,10,Elite,116.0,116.0
+"TESLA Model S Plaid (19"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L3S,large car,10,119,112,116,10,Elite,116.0,116.0
+"TESLA Model S Plaid (21"" Wheels)",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L3S,large car,10,102,99,101,10,Elite,101.0,101.0
+"TESLA Model S Plaid (21"" Wheels)",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L3S,large car,10,102,99,101,10,Elite,101.0,101.0
+TESLA Model X Long Range,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2X,standard SUV,10,107,97,102,10,Elite,102.0,102.0
+TESLA Model X Long Range,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2X,standard SUV,10,107,97,102,10,Elite,102.0,102.0
+TESLA Model X Long Range Plus,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2X,standard SUV,10,109,101,105,10,Elite,105.0,105.0
+TESLA Model X Long Range Plus,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2X,standard SUV,10,109,101,105,10,Elite,105.0,105.0
+"TESLA Model X Performance (20"")",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2X,standard SUV,10,100,95,97,10,Elite,97.0,97.0
+"TESLA Model X Performance (20"")",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2X,standard SUV,10,100,95,97,10,Elite,97.0,97.0
+"TESLA Model X Performance (22"")",,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2X,standard SUV,10,89,83,86,10,Elite,86.0,86.0
+"TESLA Model X Performance (22"")",,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2X,standard SUV,10,89,83,86,10,Elite,86.0,86.0
+TESLA Model Y Long Range,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2Y,small SUV,10,128,116,122,10,Elite,122.0,122.0
+TESLA Model Y Long Range,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2Y,small SUV,10,128,116,122,10,Elite,122.0,122.0
+TESLA Model Y Performance,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L2Y,small SUV,10,115,106,111,10,Elite,111.0,111.0
+TESLA Model Y Performance,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L2Y,small SUV,10,115,106,111,10,Elite,111.0,111.0
+TESLA Model Y Standard Range,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MTSLV00.0L1Y,small SUV,10,140,119,129,10,Elite,129.0,128.99
+TESLA Model Y Standard Range,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MTSLV00.0L1Y,small SUV,10,140,119,129,10,Elite,129.0,128.99
+TOYOTA Avalon Hybrid,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P33,midsize car,7,43,43,43,9,Yes,55.285714285714285,55.24285714285721
+TOYOTA Avalon Hybrid,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P33,midsize car,7,43,43,43,9,Yes,55.285714285714285,55.24285714285721
+TOYOTA Avalon Hybrid XLE,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P33,midsize car,7,43,44,44,9,Yes,56.57142857142857,56.571428571428505
+TOYOTA Avalon Hybrid XLE,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P33,midsize car,7,43,44,44,9,Yes,56.57142857142857,56.571428571428505
+TOYOTA Camry Hybrid LE,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P33,midsize car,7,51,53,52,9,Yes,66.85714285714286,66.8571428571429
+TOYOTA Camry Hybrid LE,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P33,midsize car,7,51,53,52,9,Yes,66.85714285714286,66.8571428571429
+TOYOTA Camry Hybrid SE/XLE/XSE,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P33,midsize car,7,44,47,46,9,Yes,59.142857142857146,59.284285714285716
+TOYOTA Camry Hybrid SE/XLE/XSE,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P33,midsize car,7,44,47,46,9,Yes,59.142857142857146,59.284285714285716
+TOYOTA Camry LE/SE,2.5,4.0,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P3A,midsize car,7,28,39,32,7,Yes,32.0,32.0
+TOYOTA Camry LE/SE,2.5,4.0,SemiAuto-8,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P3A,midsize car,7,28,39,32,7,Yes,32.0,32.0
+TOYOTA Camry XLE/XSE,2.5,4.0,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.5P3A,midsize car,7,27,38,31,7,Yes,31.0,31.0
+TOYOTA Camry XLE/XSE,2.5,4.0,SemiAuto-8,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.5P3A,midsize car,7,27,38,31,7,Yes,31.0,31.0
+TOYOTA Corolla,2.0,4.0,Man-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,29,36,32,7,Yes,32.0,32.0
+TOYOTA Corolla,2.0,4.0,Man-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,29,36,32,7,Yes,32.0,32.0
+TOYOTA Corolla,2.0,4.0,SCV-10,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,31,40,34,7,Yes,34.0,34.0
+TOYOTA Corolla,2.0,4.0,SCV-10,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,31,40,34,7,Yes,34.0,34.0
+TOYOTA Corolla Apex,2.0,4.0,Man-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,28,36,31,7,Yes,31.0,31.0
+TOYOTA Corolla Apex,2.0,4.0,Man-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,28,36,31,7,Yes,31.0,31.0
+TOYOTA Corolla Apex,2.0,4.0,SCV-10,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,31,38,34,7,Yes,34.0,34.0
+TOYOTA Corolla Apex,2.0,4.0,SCV-10,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,31,38,34,7,Yes,34.0,34.0
+TOYOTA Corolla Hatchback,2.0,4.0,Man-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,28,37,31,7,Yes,31.0,31.0
+TOYOTA Corolla Hatchback,2.0,4.0,Man-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,28,37,31,7,Yes,31.0,31.0
+TOYOTA Corolla Hatchback,2.0,4.0,SCV-10,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,32,41,35,7,Yes,35.0,35.0
+TOYOTA Corolla Hatchback,2.0,4.0,SCV-10,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,32,41,35,7,Yes,35.0,35.0
+TOYOTA Corolla Hatchback XSE,2.0,4.0,SCV-10,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,30,38,33,7,Yes,33.0,33.0
+TOYOTA Corolla Hatchback XSE,2.0,4.0,SCV-10,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,30,38,33,7,Yes,33.0,33.0
+TOYOTA Corolla Hybrid,1.8,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV01.8P33,small car,7,53,52,52,9,Yes,66.85714285714286,66.8571428571429
+TOYOTA Corolla Hybrid,1.8,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV01.8P33,small car,7,53,52,52,9,Yes,66.85714285714286,66.8571428571429
+TOYOTA Corolla XSE,2.0,4.0,SCV-10,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV02.0P3A,small car,7,31,38,34,7,Yes,34.0,34.0
+TOYOTA Corolla XSE,2.0,4.0,SCV-10,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV02.0P3A,small car,7,31,38,34,7,Yes,34.0,34.0
+TOYOTA Highlander Hybrid,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P34,small SUV,7,36,35,36,8,Yes,41.142857142857146,41.1542857142858
+TOYOTA Highlander Hybrid,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P34,small SUV,7,36,35,36,8,Yes,41.142857142857146,41.1542857142858
+TOYOTA Highlander Hybrid,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P34,standard SUV,7,35,35,35,7,Yes,35.0,35.0
+TOYOTA Highlander Hybrid,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P34,standard SUV,7,35,35,35,7,Yes,35.0,35.0
+TOYOTA Highlander Hybrid LTD/PLAT,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P34,standard SUV,7,35,34,35,7,Yes,35.0,35.0
+TOYOTA Highlander Hybrid LTD/PLAT,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P34,standard SUV,7,35,34,35,7,Yes,35.0,35.0
+TOYOTA Mirai Limited,,,CVT,2WD,Hydrogen,FA,T3B0,Federal Tier 3 Bin 0,MTYXV00.0DA7,small car,10,67,64,65,10,Elite,65.0,65.0
+TOYOTA Mirai Limited,,,CVT,2WD,Hydrogen,CA,ZEV,California ZEV,MTYXV00.0DA7,small car,10,67,64,65,10,Elite,65.0,65.0
+TOYOTA Mirai XLE,,,CVT,2WD,Hydrogen,FA,T3B0,Federal Tier 3 Bin 0,MTYXV00.0DA7,small car,10,76,71,74,10,Elite,74.0,74.0
+TOYOTA Mirai XLE,,,CVT,2WD,Hydrogen,CA,ZEV,California ZEV,MTYXV00.0DA7,small car,10,76,71,74,10,Elite,74.0,74.0
+TOYOTA Prius,1.8,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV01.8P33,midsize car,7,54,50,52,9,Yes,66.85714285714286,66.8571428571429
+TOYOTA Prius,1.8,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV01.8P33,midsize car,7,54,50,52,9,Yes,66.85714285714286,66.8571428571429
+TOYOTA Prius,1.8,4.0,CVT,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV01.8P33,midsize car,7,51,47,49,9,Yes,63.0,63.0
+TOYOTA Prius,1.8,4.0,CVT,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV01.8P33,midsize car,7,51,47,49,9,Yes,63.0,63.0
+TOYOTA Prius Eco,1.8,4.0,CVT,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXV01.8P33,midsize car,7,58,53,56,10,Yes,80.0,79.65714285714284
+TOYOTA Prius Eco,1.8,4.0,CVT,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXV01.8P33,midsize car,7,58,53,56,10,Yes,80.0,79.65714285714284
+TOYOTA Prius Prime,1.8,4.0,CVT,2WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MTYXV01.8P35,midsize car,7,55/145,53/121,54,10,Yes,77.14285714285714,77.17142857142849
+TOYOTA Prius Prime,1.8,4.0,CVT,2WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MTYXV01.8P35,midsize car,7,55/145,53/121,54,10,Yes,77.14285714285714,77.17142857142849
+TOYOTA RAV4 Hybrid,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P3N,small SUV,7,41,38,40,8,Yes,45.714285714285715,45.71428571428571
+TOYOTA RAV4 Hybrid,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P3N,small SUV,7,41,38,40,8,Yes,45.714285714285715,45.71428571428571
+TOYOTA RAV4 PRIME,2.5,4.0,SCV-6,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P33,small SUV,7,40/105,36/84,38,10,Yes,54.285714285714285,54.28571428571435
+TOYOTA RAV4 PRIME,2.5,4.0,SCV-6,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P33,small SUV,7,40/105,36/84,38,10,Yes,54.285714285714285,54.28571428571435
+TOYOTA Sienna,2.5,4.0,SCV-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P34,minivan,7,36,36,36,8,Yes,41.142857142857146,41.1542857142858
+TOYOTA Sienna,2.5,4.0,SCV-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P34,minivan,7,36,36,36,8,Yes,41.142857142857146,41.1542857142858
+TOYOTA Sienna,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P34,minivan,7,35,36,35,7,Yes,35.0,35.0
+TOYOTA Sienna,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P34,minivan,7,35,36,35,7,Yes,35.0,35.0
+TOYOTA Venza,2.5,4.0,SCV-6,4WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MTYXT02.5P3N,small SUV,7,40,37,39,8,Yes,44.57142857142857,44.57142857142853
+TOYOTA Venza,2.5,4.0,SCV-6,4WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MTYXT02.5P3N,small SUV,7,40,37,39,8,Yes,44.57142857142857,44.57142857142853
+VOLKSWAGEN Golf,1.4,4.0,Man-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MVGAV01.4V3P,small car,7,29,39,33,7,Yes,33.0,33.0
+VOLKSWAGEN Golf,1.4,4.0,Man-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MVGAV01.4V3P,small car,7,29,39,33,7,Yes,33.0,33.0
+VOLKSWAGEN Golf,1.4,4.0,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MVGAV01.4V3P,small car,7,29,36,32,7,Yes,32.0,32.0
+VOLKSWAGEN Golf,1.4,4.0,SemiAuto-8,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MVGAV01.4V3P,small car,7,29,36,32,7,Yes,32.0,32.0
+VOLKSWAGEN ID.4 1st,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0VZR,small SUV,10,104,89,97,10,Elite,97.0,97.0
+VOLKSWAGEN ID.4 1st,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0VZR,small SUV,10,104,89,97,10,Elite,97.0,97.0
+VOLKSWAGEN ID.4 AWD Pro,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0VZR,small SUV,10,102,90,97,10,Elite,97.0,97.0
+VOLKSWAGEN ID.4 AWD Pro,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0VZR,small SUV,10,102,90,97,10,Elite,97.0,97.0
+VOLKSWAGEN ID.4 AWD Pro S,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0VZR,small SUV,10,98,88,93,10,Elite,93.0,93.0
+VOLKSWAGEN ID.4 AWD Pro S,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0VZR,small SUV,10,98,88,93,10,Elite,93.0,93.0
+VOLKSWAGEN ID.4 Pro,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0VZR,small SUV,10,107,91,99,10,Elite,99.0,99.0
+VOLKSWAGEN ID.4 Pro,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0VZR,small SUV,10,107,91,99,10,Elite,99.0,99.0
+VOLKSWAGEN ID.4 Pro S,,,Auto-1,2WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVGAT00.0VZR,small SUV,10,104,89,97,10,Elite,97.0,97.0
+VOLKSWAGEN ID.4 Pro S,,,Auto-1,2WD,Electricity,CA,ZEV,California ZEV,MVGAT00.0VZR,small SUV,10,104,89,97,10,Elite,97.0,97.0
+VOLKSWAGEN Jetta,1.4,4.0,Man-6,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MVGAV01.4V3P,small car,7,30,41,34,7,Yes,34.0,34.0
+VOLKSWAGEN Jetta,1.4,4.0,Man-6,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MVGAV01.4V3P,small car,7,30,41,34,7,Yes,34.0,34.0
+VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-8,2WD,Gasoline,CA,L3SULEV30,California LEV-III SULEV30,MVGAV01.4V3P,small car,7,29,39,33,7,Yes,33.0,33.0
+VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-8,2WD,Gasoline,FA,T3B30,Federal Tier 3 Bin 30,MVGAV01.4V3P,small car,7,29,39,33,7,Yes,33.0,33.0
+VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVVXJ02.0P3A,small car,7,28/70,33/68,30,10,Yes,42.857142857142854,42.85714285714278
+VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVVXJ02.0P3A,small car,7,28/70,33/68,30,10,Yes,42.857142857142854,42.85714285714278
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVVXJ02.0P3A,midsize car,7,28/58,31/64,30,10,Yes,42.857142857142854,42.85714285714278
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVVXJ02.0P3A,midsize car,7,28/58,31/64,30,10,Yes,42.857142857142854,42.85714285714278
+VOLVO V60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVVXJ02.0P3A,station wagon,7,28/70,33/68,30,10,Yes,42.857142857142854,42.85714285714278
+VOLVO V60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVVXJ02.0P3A,station wagon,7,28/70,33/68,30,10,Yes,42.857142857142854,42.85714285714278
+VOLVO XC40 BEV,,,Auto-1,4WD,Electricity,FA,T3B0,Federal Tier 3 Bin 0,MVVXV00.0Z0A,small SUV,10,85,72,79,10,Elite,79.0,79.0
+VOLVO XC40 BEV,,,Auto-1,4WD,Electricity,CA,ZEV,California ZEV,MVVXV00.0Z0A,small SUV,10,85,72,79,10,Elite,79.0,79.0
+VOLVO XC60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVVXJ02.0P3A,small SUV,7,26/56,28/57,27,9,Yes,34.714285714285715,34.71428571428575
+VOLVO XC60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVVXJ02.0P3A,small SUV,7,26/56,28/57,27,9,Yes,34.714285714285715,34.71428571428575
+VOLVO XC90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,CA,L3SULEV30,California LEV-III SULEV30,MVVXJ02.0P3A,standard SUV,7,26/58,28/53,27,9,Yes,34.714285714285715,34.71428571428575
+VOLVO XC90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,FA,T3B30,Federal Tier 3 Bin 30,MVVXJ02.0P3A,standard SUV,7,26/58,28/53,27,9,Yes,34.714285714285715,34.71428571428575
